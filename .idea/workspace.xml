@@ -6,10 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6eea4d8-acd6-4f47-8ac0-e22ff457435a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bj_2839.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj_2839.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,16 +19,17 @@
     <session id="554318712">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -39,24 +37,24 @@
           <entry key="MD" value="1" />
           <entry key="bj_10998" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="51" />
+          <entry key="java" value="76" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="50" />
+          <entry key="JAVA" value="75" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2987" />
+          <entry key="java" value="6981" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2979" />
+          <entry key="JAVA" value="6973" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
       </usages-collector>
@@ -66,7 +64,17 @@
     <favorites_list name="Baekjoon Algorithm" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/bj_4673.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -81,6 +89,8 @@
       <find>import java\.util\.Scanner\;\n\npublic class bj_2839 \{\n    public static void main\(String\[\] args\) \{\n        Scanner scan \= new Scanner\(System\.in\)\;\n\n        int x \= scan\.nextInt\(\)\;\n        if\(x\%5 \=\= 0 \) \{\n\n            System\.out\.println\(x\/5\)\;\n            return\;\n\n        \}else\{\n\n            int quotient \=\(x\/5\;\n\n            for\(int i\=quotient\; i\&gt;0\; i\-\-\) \{\n\n                int temp \=\(x\-\(i\*5\)\;\n\n                if\(temp\%3\=\=0\) \{\n\n                    System\.out\.println\(i\+\(temp\/3\)\)\;\n\n                    return\;\n                \}\n            \}\n\n        \}\n\n        if\(x\%3\=\=0\) \{\n\n            System\.out\.println\(x\/3\)\;\n\n        \}else \{\n\n            System\.out\.println\(\-1\)\;\n\n        \}\n\n        return\;\n\n    \}\n\}</find>
       <find>quotient</find>
       <find>num</find>
+      <find>import java\.io\.\*\;\nimport java\.util\.StringTokenizer\;\n\npublic class bj_15552 \{\n    public static void main\(String args\[\]\) throws IOException \{\n        BufferedReader br \= new BufferedReader\(new InputStreamReader\(System\.in\)\)\;\n        int n \= Integer\.parseInt\(br\.readLine\(\)\)\;\n        StringBuilder sb \= new StringBuilder\(\)\;\n        for\(int i\=0\;i\&lt;n\;i\+\+\)\{\n            StringTokenizer st \= new StringTokenizer\(br\.readLine\(\)\)\;\n            sb\.append\(Integer\.parseInt\(st\.nextToken\(\)\)\+Integer\.parseInt\(st\.nextToken\(\)\)\+\&quot;\\n\&quot;\)\;\n        \}\n        System\.out\.println\(sb\)\;\n    \}\n\}\n</find>
+      <find>a</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -111,6 +121,18 @@
         <option value="$PROJECT_DIR$/src/bj_2739.java" />
         <option value="$PROJECT_DIR$/src/bj_2440.java" />
         <option value="$PROJECT_DIR$/src/bj_2441.java" />
+        <option value="$PROJECT_DIR$/src/bj_11721.java" />
+        <option value="$PROJECT_DIR$/src/bj_11720.java" />
+        <option value="$PROJECT_DIR$/src/bj_1924.java" />
+        <option value="$PROJECT_DIR$/src/bj_15552.java" />
+        <option value="$PROJECT_DIR$/src/bj_8393.java" />
+        <option value="$PROJECT_DIR$/src/bj_9498.java" />
+        <option value="$PROJECT_DIR$/src/bj_10817.java" />
+        <option value="$PROJECT_DIR$/src/bj_10871.java" />
+        <option value="$PROJECT_DIR$/src/bj_1546.java" />
+        <option value="$PROJECT_DIR$/src/bj_4344.java" />
+        <option value="$PROJECT_DIR$/src/bj_1110.java" />
+        <option value="$PROJECT_DIR$/src/bj_4673.java" />
       </list>
     </option>
   </component>
@@ -121,8 +143,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="947" />
-    <option name="y" value="22" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -157,7 +178,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553505488385" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553526672013" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -183,56 +204,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.bj_2441">
-    <configuration name="bj_2438" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bj_2438" />
+  <component name="RunManager" selected="Application.bj_1110">
+    <configuration name="bj_10871" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bj_10871" />
       <module name="Baekjoon Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bj_2440" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bj_2440" />
+    <configuration name="bj_1110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bj_1110" />
       <module name="Baekjoon Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bj_2441" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bj_2441" />
+    <configuration name="bj_11718" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bj_11718" />
       <module name="Baekjoon Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bj_2739" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bj_2739" />
+    <configuration name="bj_1546" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bj_1546" />
       <module name="Baekjoon Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bj_2742" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bj_2742" />
+    <configuration name="bj_4344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bj_4344" />
       <module name="Baekjoon Algorithm" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.bj_2742" />
-      <item itemvalue="Application.bj_2739" />
-      <item itemvalue="Application.bj_2438" />
-      <item itemvalue="Application.bj_2440" />
-      <item itemvalue="Application.bj_2441" />
+      <item itemvalue="Application.bj_10871" />
+      <item itemvalue="Application.bj_1546" />
+      <item itemvalue="Application.bj_4344" />
+      <item itemvalue="Application.bj_1110" />
+      <item itemvalue="Application.bj_11718" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.bj_2441" />
-        <item itemvalue="Application.bj_2440" />
-        <item itemvalue="Application.bj_2438" />
-        <item itemvalue="Application.bj_2739" />
-        <item itemvalue="Application.bj_2742" />
+        <item itemvalue="Application.bj_1110" />
+        <item itemvalue="Application.bj_11718" />
+        <item itemvalue="Application.bj_4344" />
+        <item itemvalue="Application.bj_1546" />
+        <item itemvalue="Application.bj_10871" />
       </list>
     </recent_temporary>
   </component>
@@ -257,21 +278,23 @@
       <workItem from="1553162524026" duration="79000" />
       <workItem from="1553498223282" duration="5676000" />
       <workItem from="1553504491430" duration="1000000" />
+      <workItem from="1553513261832" duration="13386000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19871000" />
+    <option name="totallyTimeSpent" value="33257000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="947" y="22" width="974" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5010965" side_tool="true" weight="0.26608506" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4989035" visible="true" weight="0.29212254" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4989035" visible="true" weight="0.2986871" />
       <window_info id="Structure" order="6" sideWeight="0.5010965" side_tool="true" weight="0.26608506" />
       <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32894737" />
@@ -306,13 +329,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/bj1000.java" />
     <entry file="file://$PROJECT_DIR$/src/bj1001.java" />
-    <entry file="file://$PROJECT_DIR$/src/bj_7287.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bj_10172.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -356,13 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bj_1000.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/bj_10430.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -384,25 +393,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bj_2557.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bj_2839.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -455,10 +450,125 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_2839.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="9" selection-start-line="2" selection-start-column="22" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_2557.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_7287.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/bj_2440.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_1924.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_8393.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_1000.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="15" />
+          <caret selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_9498.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_10817.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_10871.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="13" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_1546.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_15552.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_11721.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_11720.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_4344.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_1110.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bj_4673.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
