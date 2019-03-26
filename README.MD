@@ -2,7 +2,7 @@
 
 ### 백준 **알고리즘의** 단계별 풀어보기  
 
-- #### java>로 풀이합니다.
+- #### Java로 풀이합니다.
 
   
 
@@ -52,7 +52,7 @@
 
   - [**2741번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2741.java>) : N 찍기
 
-  - |[**|2742번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2742.java>) : 기찍 N
+  - [**2742번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2742.java>) : 기찍 N
 
   - [**2739번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2739.java>) : 구구단
 
