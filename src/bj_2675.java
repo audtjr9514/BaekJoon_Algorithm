@@ -5,19 +5,17 @@ public class bj_2675 {
         Scanner scan = new Scanner(System.in);
         int test = scan.nextInt();
         String[] out = new String[test];
+        int[] repeat = new int[test];
+
         for (int i = 0; i < test; i++) {
-            int num = scan.nextInt();
-            String[] in = scan.next().split("");
-
-            for (int j = 0; j < in.length; j++) {
-                out[j] = "";
-                for (int k = 0; k < num; k++)
-                    out[j] += in[k];
-            }
-
+            repeat[i] = scan.nextInt();
+            out[i] = scan.next();
         }
-        for (String s : out)
-            System.out.println(s);
-
+        for (int i = 0; i < out.length; i++) {
+            String [] str = out[i].split("");
+            for (int j = 0; j < repeat[i]; j++) {
+                System.out.print(str[j]);
+            }
+        }
     }
 }
