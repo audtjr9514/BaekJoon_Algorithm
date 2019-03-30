@@ -78,5 +78,8 @@
 
   - [**11654번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11654.java>) : 아스키 코드
   - [**10890번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_110890.java>) : 알파벳 찾기
-  - [**2675번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2675.java>) : 알파벳 찾기
+  - [**2675번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2675.java>) : 알파벳 찾기  
+  - [**1157번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1157.java>) : 단어 공부
+  - [**1316번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1316.java>) : 그룹단어 체커
+  - [**1152번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1152.java>) : 단어의 개수
 
