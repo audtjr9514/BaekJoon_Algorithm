@@ -77,3 +77,4 @@
   - *[**1316번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1316.java>) : 그룹단어 체커 ~ ing*
   - [**1152번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1152.java>) : 단어의 개수
   - [**2908번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2908.java>) : 상수
+  - [**5622번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_5622.java>) : 다이얼
