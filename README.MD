@@ -35,7 +35,7 @@
   - [**2438번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2438.java>) : 별 찍기 - 1
   - [**2439번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2439.java>) : 별 찍기 - 2
   - [**2440번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2440.java>) : 별 찍기 - 3
-  - [**2441번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2441.java>) : 별 찍기 -4
+  - [**2441번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2441.java>) : 별 찍기 - 4
   - [**1924번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1924.java>) : 2007년
   - [**8393번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_8393.java>) : 합
   - [**11720번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11720.java>) : 숫자의 합
@@ -51,7 +51,7 @@
   - [**1110번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1110.java>) : 더하기 사이클
 
 - #### 5단계 : 함수 사용하기 _ ~ing
-  - *[**4673번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4673.java>) : 셀프 넘버 ~ ing*
+  - *[**4673번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4673.java>) : 셀프 넘버 ~ing ★*
 
 - #### 6단계 : 1차원 배열 사용하기 _ Finised
   - [**1152번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1152.java>) : 단어의 개수
@@ -65,10 +65,13 @@
   - [**10890번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_110890.java>) : 알파벳 찾기
   - [**2675번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2675.java>) : 알파벳 찾기  
   - [**1157번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1157.java>) : 단어 공부
-  - *[**1316번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1316.java>) : 그룹단어 체커 ~ ing*
+  - *[**1316번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1316.java>) : 그룹단어 체커 ~ing*
   - [**1152번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1152.java>) : 단어의 개수
   - [**2908번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2908.java>) : 상수
   - [**5622번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_5622.java>) : 다이얼
   
 - #### 8단계 : 규칙 찾기 _ ~ing
+  - [**2438번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2438.java>) : 별찍기 -1
   - [**2292번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2292.java>) : 벌집
+  - [**1193번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1193.java>) : 분수찾기
+  - *[**1011번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1011.java>) : Fly me to the Alpha Centauri ~ing*
