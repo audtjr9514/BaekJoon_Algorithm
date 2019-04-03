@@ -73,5 +73,5 @@
 - #### 8단계 : 규칙 찾기 _ ~ing
   - [**2438번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2438.java>) : 별찍기 -1
   - [**2292번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2292.java>) : 벌집
-  - [**1193번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1193.java>) : 분수찾기
-  - *[**1011번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1011.java>) : Fly me to the Alpha Centauri ~ing*
+  - [**1193번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1193.java>) : 분수찾기 ★
+  - [**1011번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1011.java>) : Fly me to the Alpha Centauri ★
