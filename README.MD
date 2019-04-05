@@ -75,5 +75,7 @@
   - [**2292번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2292.java>) : 벌집
   - [**1193번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1193.java>) : 분수찾기 ★
   - [**1011번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1011.java>) : Fly me to the Alpha Centauri ★
-  - [**2275번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2275.java>) : 부녀회장이 될거야
-  - [**1475번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1475.java>) : 방번호  ★ ★
+  - [**10250번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10250.java>) : ACM 호텔
+  - [**1924번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1924.java>) : 2007년
+  - [**2775번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2775.java>) : 부녀회장이 될거야
+  - [**1475번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1475.java>) : 방번호  ★ 

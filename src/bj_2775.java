@@ -13,7 +13,7 @@
 
 import java.util.*;
 
-public class bj_2275 {
+public class bj_2775 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int testcase = scan.nextInt();             // 테스트 케이스
