@@ -60,15 +60,16 @@
   - [**2920번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2920.java>) : 음계
   - [**10039번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10039.java>) : 평균 점수
 
-- #### 7단계 : 문자열 사용하기 _ ~ing
+- #### 7단계 : 문자열 사용하기 _ Finished
   - [**11654번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11654.java>) : 아스키 코드
-  - [**10890번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_110890.java>) : 알파벳 찾기
+  - [**10890번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10890.java>) : 알파벳 찾기
   - [**2675번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2675.java>) : 알파벳 찾기  
   - [**1157번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1157.java>) : 단어 공부
-  - *[**1316번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1316.java>) : 그룹단어 체커 ~ing*
+  - [**1316번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1316.java>) : 그룹단어 체커 ★
   - [**1152번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1152.java>) : 단어의 개수
   - [**2908번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2908.java>) : 상수
   - [**5622번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_5622.java>) : 다이얼
+  - [**2941번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2941.java>) : 크로아티아 알파벳
   
 - #### 8단계 : 규칙 찾기 _ ~ing
   - [**2438번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2438.java>) : 별찍기 - 1
@@ -83,3 +84,6 @@
       
 - #### 9단계 : 정렬해보기 _ ~ing
   - [**2750**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2750.java>) : 수 정렬하기
+  - [**2108**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2108.java>) : 통계학 ~ing
+  - [**1427**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1427.java>) : 소트인사이드
+  - [**1181**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1181.java>) : 단어 정렬 ~ing
