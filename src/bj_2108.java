@@ -13,6 +13,7 @@ public class bj_2108 {
         int[] numbers = new int[scan.nextInt()];
         for (int i = 0; i < numbers.length; i++)
             numbers[i] = scan.nextInt();
+
         // 산술 평균
         int sum = 0;
         for (int num : numbers)
@@ -20,11 +21,21 @@ public class bj_2108 {
         System.out.println(sum / numbers.length);
 
         // 중앙값
+        for (int i = 0; i < numbers.length; i++)
+            for (int j = 0; j < i; j++) {
+                if (numbers[i] < numbers[j]) {
+                    int temp = numbers[j];
+                    numbers[j] = numbers[i];
+                    numbers[i] = temp;
+                }
+            }
+        System.out.println(numbers[numbers.length / 2]);
 
+        // 최빈값
         System.out.println();
 
-        System.out.println();   // 최빈값
-        System.out.println();   // 범위
+        // 범위
+        System.out.println(numbers[numbers.length - 1] - numbers[0]);
         scan.close();
 
     }
