@@ -30,6 +30,7 @@ public class bj_2108 {
                 }
             }
         System.out.println(numbers[numbers.length / 2]);
+        numbers.length = 0;
 
         // 최빈값
         System.out.println();
