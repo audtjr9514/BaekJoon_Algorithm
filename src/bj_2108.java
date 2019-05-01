@@ -30,9 +30,16 @@ public class bj_2108 {
                 }
             }
         System.out.println(numbers[numbers.length / 2]);
-        numbers.length = 0;
+
 
         // 최빈값
+        int[] num_chk = new int[8000];
+        for (int i = 0; i < numbers.length; i++) {
+            if (numbers[i] < 0)
+                num_chk[numbers[i]]++;
+            else
+                num_chk[numbers[i]+4000]++;
+        }
         System.out.println();
 
         // 범위
