@@ -6,26 +6,26 @@
 
 ### 단계별 풀이
 
-- #### 1단계 : 입/출력 받아보기 _  Finished
+- #### 1단계 : 입출력과 사칙연산 _  Finished
   1. [**2557번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2557.java>) : Hello World
-  2. [**1000번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1000.java>) : A + B
-  3. [**1001번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1001.java>) : A - B
-  4. [**7287번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_7287.java>) : 등록
-  5. [**10172번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10172.java>) : 개
-  6. [**10718번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10718.java>) : we love kill
-  7. [**11718번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11718.java>) : 그대로 출력하기
-  8. [**11719번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11719.java>) : 그대로 출력하기 2
+  2. [**10718번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10718.java>) : we love krill
+  3. [**10171번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10171.java>) : 고양이
+  4. [**10172번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10172.java>) : 개
+  5. [**1000번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1000.java>) : A + B
+  6. [**1001번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1001.java>) : A - B
+  7. [**10998번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10998.java>) : A X B
+  8. [**1008번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1008.java>) : A / B
+  9. [**10869번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10869.java>) : 사칙연산
+  10. [**10430번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10430.java>) : 나머지
+  11. [**2588번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2588.java>) : 곱셈
 
 
-- #### 2단계 : 사칙연산 도전하기  _ Finished
-  1. [**1000번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1000.java>) : A + B
-  2. [**1001번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1001.java>) : A - B
-  3. [**10998번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10998.java>) : A X B
-  4. [**1008번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1008.java>) : A / B
-  5. [**10869번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10869.java>) : 사칙연산
-  6. [**10430번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10430.java>) : 나머지
-  7. [**2558번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2558.java>) : A + B -2
-  8. [**2839번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2839.java>) : 설탕 배달
+- #### 2단계 : if문  _ Finished
+  1. [**1330번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1330.java>) : 두 수 비교하기
+  2. [**9498번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9498.java>) : 시험 성적
+  3. [**2753번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2753.java>) : 윤년
+  4. [**2884번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2884.java>) : 알람 시계
+  5. [**10817번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10817.java>) : 세 수 
 
 
 - #### 3단계 : for문 사용해보기 _ Finished
@@ -43,8 +43,8 @@
   12. [**15552번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15552.java>) : 빠른 A-B
 
 - #### 4단계 : if문 사용해보기 _ Finished
-  1. [**9498번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9498.java>) : 시험 성적
-  2. [**10817번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10817.java>) : 세 수
+  1. 
+  2. 
   3. [**10871번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10871.java>) : X보다 작은 수
   4. [**1546번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1546.java>) : 평균
   5. [**4344번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4344.java>) : 평균은 넘겠지
