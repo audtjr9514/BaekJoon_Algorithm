@@ -29,6 +29,11 @@
 
 
 - #### 3단계 : for문 사용해보기 _ Finished
+  1. [**2739번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2739.java>) : 구구단
+  2. [**10950번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10950.java>) : 	A+B - 3
+  3. [**8393번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_8393.java>) : 합
+  4. [**15552번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15552.java>) : 빠른 A-B
+
   1. [**2741번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2741.java>) : N 찍기
   2. [**2742번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2742.java>) : 기찍 N
   3. [**2739번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2739.java>) : 구구단

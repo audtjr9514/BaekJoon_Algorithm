@@ -11,7 +11,7 @@ public class bj_10950 {
             int y = scan.nextInt();
             result[i] = x + y;
         }
-        for(int z =0; z<result.length; z++)
+        for (int z = 0; z < result.length; z++)
             System.out.println(result[z]);
     }
 }
