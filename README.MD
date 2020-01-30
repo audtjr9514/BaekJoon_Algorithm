@@ -28,32 +28,47 @@
   5. [**10817번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10817.java>) : 세 수 
 
 
-- #### 3단계 : for문 사용해보기 _ Finished
+- #### 3단계 : for문 _ Finished
   1. [**2739번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2739.java>) : 구구단
-  2. [**10950번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10950.java>) : 	A+B - 3
+  2. [**10950번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10950.java>) : A+B - 3
   3. [**8393번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_8393.java>) : 합
-  4. [**15552번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15552.java>) : 빠른 A-B
+  4. [**15552번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15552.java>) : 빠른 A+B
+  5. [**2741번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2741.java>) : N 찍기
+  6. [**2742번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2742.java>) : 기찍 N
+  7. [**11021번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11021.java>) : A+B - 7
+  8. [**11022번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11022.java>) : A+B - 8
+  9. [**2438번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2438.java>) : 별 찍기 - 1
+  10. [**2439번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2439.java>) : 별 찍기 - 2
+  11. [**10871번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10871.java>) : X보다 작은 수
 
-  1. [**2741번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2741.java>) : N 찍기
-  2. [**2742번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2742.java>) : 기찍 N
-  3. [**2739번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2739.java>) : 구구단
-  4. [**2438번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2438.java>) : 별 찍기 - 1
-  5. [**2439번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2439.java>) : 별 찍기 - 2
-  6. [**2440번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2440.java>) : 별 찍기 - 3
-  7. [**2441번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2441.java>) : 별 찍기 - 4
-  8. [**1924번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1924.java>) : 2007년
-  9. [**8393번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_8393.java>) : 합
-  10. [**11720번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11720.java>) : 숫자의 합
-  11. [**11721번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11721.java>) : 열 개씩 끊어 출력하기
-  12. [**15552번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15552.java>) : 빠른 A-B
+- #### 4단계 : while문 _ Finished
+  1. [**10952번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10952.java>) : A+B - 5
+  2. [**10951번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10951.java>) : A+B - 4
+  3. [**1110번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1110.java>) : 더하기 사이클
 
-- #### 4단계 : if문 사용해보기 _ Finished
-  1. 
-  2. 
-  3. [**10871번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10871.java>) : X보다 작은 수
-  4. [**1546번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1546.java>) : 평균
-  5. [**4344번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4344.java>) : 평균은 넘겠지
-  6. [**1110번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1110.java>) : 더하기 사이클
+- #### 6단계 : 1차원 배열 _ ~ing
+   1. [**10818번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10818.java>) : 최소, 최대
+   2. [**2562번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2562.java>) : 최댓값
+   3. [**2577번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2577.java>) : 숫자의 개수
+   4. [**3052번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_3052.java>) : 나머지
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
 
 - #### 5단계 : 함수 사용하기 _ ~ing
   1. [**4673번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4673.java>) : 셀프 넘버 ★★
