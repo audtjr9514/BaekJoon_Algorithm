@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.Arrays;
 
 public class bj_10818 {
     public static void main(String[] args) {
@@ -7,6 +8,7 @@ public class bj_10818 {
 
         for (int i = 0; i < arr.length; i++)
             arr[i] = scan.nextInt();
-        System.out.println(arr);
+        Arrays.sort(arr);
+        System.out.println(arr[0] + " " + arr[arr.length - 1]);
     }
 }

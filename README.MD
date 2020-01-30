@@ -52,6 +52,12 @@
    3. [**2577번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2577.java>) : 숫자의 개수
    4. [**3052번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_3052.java>) : 나머지
    
+- #### 7단계 : 함수 _ ~ing
+   1. [**10818번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10818.java>) : 최소, 최대
+   
+- #### 8단계 : 문자열 _ Finished
+    1. [**10818번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10818.java>) : 최소, 최대
+   
    
    
    
