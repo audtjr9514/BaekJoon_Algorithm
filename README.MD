@@ -74,22 +74,29 @@
    8. [**5622번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_5622.java>) : 다이얼
    9. [**2941번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2941.java>) : 크로아티아 알파벳
    10. [**1316번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1316.java>) : 그룹단어 체커 ★
-
+   
+- #### 9단계 : 수학 1 _ ~ing
+   1. [**1712번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1712.java>) : 손익분기점
+   2. [**2839번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2839.java>) : 설탕배달
+   3. [**2292번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2292.java>) : 벌집
+   4. [**1193번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1193.java>) : 분수찾기 ★
+   5. [**2869번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2869.java>) : 달팽이는 올라가고 싶다 ~ing
+   6. [**10250번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10250.java>) : ACM 호텔
+   7. [**2775번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2775.java>) : 부녀회장이 될테야
+   8. [**1011번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1011.java>) : Fly me to the Alpha Centauri
+   
 ---------------------------------------------------------------------------------------------------------------------
 
 - #### Etc _ Finished
    - [**2577번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2577.java>) : 숫자의 개수
    - [**8958번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_8958.java>) : OX퀴즈
    - [**2920번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2920.java>) : 음계
+   - [**2920번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2920.java>) : 음계
    - [**10039번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10039.java>) : 평균 점수
    - [**1152번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1152.java>) : 단어의 개수
-   - [**2438번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2438.java>) : 별찍기 - 1
-   - [**2292번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2292.java>) : 벌집
+   - [**2438번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2438.java>) : 별찍기 - 1 
    - [**1193번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1193.java>) : 분수찾기 ★
-   - [**1011번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1011.java>) : Fly me to the Alpha Centauri ★
-   - [**10250번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10250.java>) : ACM 호텔
-   - [**1924번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1924.java>) : 2007년
-   - [**2775번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2775.java>) : 부녀회장이 될거야
+   - - [**1924번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1924.java>) : 2007년
    - [**1475번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1475.java>) : 방번호  ★ 
    - [**6064번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_6064.java>) : 카잉달력 ★★ 
    - [**2750**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2750.java>) : 수 정렬하기
