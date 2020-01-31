@@ -1,7 +1,7 @@
 # 백준 알고리즘 문제 풀이
 
-### 백준 알고리즘의 단계별 풀어보기 [myoungs14](<https://www.acmicpc.net/user/myoungs14>)
-
+### 백준 알고리즘의 단계별 풀어보기
+- #### ID : [myoungs14](<https://www.acmicpc.net/user/myoungs14>)
 - #### Java로 풀이합니다.
 
 ### 단계별 풀이
@@ -78,7 +78,6 @@
 ---------------------------------------------------------------------------------------------------------------------
 
 - #### Etc _ Finished
-   - [**10818번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10818.java>) : 최소, 최대
    - [**2577번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2577.java>) : 숫자의 개수
    - [**8958번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_8958.java>) : OX퀴즈
    - [**2920번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2920.java>) : 음계
