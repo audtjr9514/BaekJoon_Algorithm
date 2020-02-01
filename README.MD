@@ -84,6 +84,10 @@
    6. [**10250번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10250.java>) : ACM 호텔
    7. [**2775번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2775.java>) : 부녀회장이 될테야
    8. [**1011번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1011.java>) : Fly me to the Alpha Centauri
+
+- #### 10단계 : 수학 2 _ ~ing
+   1. [**1978번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1978.java>) : 소수 찾기
+   2. [**2581번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2581.java>) : 소수
    
 ---------------------------------------------------------------------------------------------------------------------
 
