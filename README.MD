@@ -88,6 +88,8 @@
 - #### 10단계 : 수학 2 _ ~ing
    1. [**1978번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1978.java>) : 소수 찾기
    2. [**2581번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2581.java>) : 소수
+   6. [**1085번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1085.java>) : 직사각형에서 탈출
+   10. [**1002번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1002.java>) : 터렛
    
 ---------------------------------------------------------------------------------------------------------------------
 
