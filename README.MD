@@ -88,6 +88,8 @@
 - #### 10단계 : 수학 2 _ ~ing
    1. [**1978번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1978.java>) : 소수 찾기
    2. [**2581번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2581.java>) : 소수
+   3. [**1929번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1929.java>) : 소수 구하기 (에라토스테네스의 체) ★★ 
+   4. [**4948번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4948.java>) : 베르트랑 공존
    6. [**1085번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1085.java>) : 직사각형에서 탈출
    10. [**1002번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1002.java>) : 터렛
    
@@ -102,7 +104,7 @@
    - [**1152번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1152.java>) : 단어의 개수
    - [**2438번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2438.java>) : 별찍기 - 1 
    - [**1193번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1193.java>) : 분수찾기 ★
-   - - [**1924번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1924.java>) : 2007년
+   - [**1924번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1924.java>) : 2007년
    - [**1475번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1475.java>) : 방번호  ★ 
    - [**6064번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_6064.java>) : 카잉달력 ★★ 
    - [**2750**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2750.java>) : 수 정렬하기
