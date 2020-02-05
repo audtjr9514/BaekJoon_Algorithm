@@ -75,7 +75,7 @@
    9. [**2941번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2941.java>) : 크로아티아 알파벳
    10. [**1316번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1316.java>) : 그룹단어 체커 ★
    
-- #### 9단계 : 수학 1 _ ~ing
+- #### 9단계 : 수학 1 _ Finished
    1. [**1712번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1712.java>) : 손익분기점
    2. [**2839번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2839.java>) : 설탕배달
    3. [**2292번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2292.java>) : 벌집
@@ -90,9 +90,19 @@
    2. [**2581번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2581.java>) : 소수
    3. [**1929번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1929.java>) : 소수 구하기 (에라토스테네스의 체) ★★ 
    4. [**4948번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4948.java>) : 베르트랑 공존
+   5. [**9020번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9020.java>) : 골드바흐의 추측  
    6. [**1085번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1085.java>) : 직사각형에서 탈출
-   10. [**1002번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1002.java>) : 터렛
+   7. [**3009번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_3009.java>) : 네 번째 점
+   8. [**4153번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4153.java>) : 직각삼각형
+   9. [**3053번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_3053.java>) : 택시 기하학
+   10. [**1002번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1002.java>) : 터렛 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1002.java>) ★
    
+- #### 11단계 : 재귀 _ ~ing
+   1. [**10872번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1978.java>) : 팩토리얼 
+   2. [**10870번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2581.java>) : 피보나치 수 5
+   3. [**2447번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1929.java>) : 별 찍기 - 10
+   4. [**11729번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4948.java>) : 하노이 탑 이동 순서
+
 ---------------------------------------------------------------------------------------------------------------------
 
 - #### Etc _ Finished
