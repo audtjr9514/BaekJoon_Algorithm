@@ -95,7 +95,7 @@
    7. [**3009번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_3009.java>) : 네 번째 점
    8. [**4153번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4153.java>) : 직각삼각형
    9. [**3053번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_3053.java>) : 택시 기하학
-   10. [**1002번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1002.java>) : 터렛 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1002.java>) ★
+   10. [**1002번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1002.java>) : 터렛 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1002%20%EC%84%A4%EB%AA%85.jpg>) ★
    
 - #### 11단계 : 재귀 _ ~ing
    1. [**10872번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1978.java>) : 팩토리얼 
