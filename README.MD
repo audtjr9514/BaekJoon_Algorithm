@@ -66,7 +66,7 @@
 - #### 8단계 : 문자열 _ Finished
    1. [**11654번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11654.java>) : 아스키 코드
    2. [**11720번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11720.java>) : 숫자의 합
-   3. [**10890번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10890.java>) : 알파벳 찾기 
+   3. [**10809번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10809.java>) : 알파벳 찾기 
    4. [**2675번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2675.java>) : 문자열 반복 
    5. [**1157번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1157.java>) : 단어 공부
    6. [**1152번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1152.java>) : 단어의 개수
@@ -100,8 +100,8 @@
 - #### 11단계 : 재귀 _ ~ing
    1. [**10872번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1978.java>) : 팩토리얼 
    2. [**10870번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2581.java>) : 피보나치 수 5
-   3. [**2447번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1929.java>) : 별 찍기 - 10
-   4. [**11729번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4948.java>) : 하노이 탑 이동 순서
+   3. [**2447번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1929.java>) : 별 찍기 - 10 _ ~ing
+   4. [**11729번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4948.java>) : 하노이 탑 이동 순서 ★
 
 ---------------------------------------------------------------------------------------------------------------------
 
