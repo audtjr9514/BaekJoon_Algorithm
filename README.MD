@@ -97,13 +97,17 @@
    9. [**3053번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_3053.java>) : 택시 기하학
    10. [**1002번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1002.java>) : 터렛 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1002%20%EC%84%A4%EB%AA%85.jpg>) ★
    
-- #### 11단계 : 재귀 _ ~ing
+- #### 11단계 : 재귀 _ Finished
    1. [**10872번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1978.java>) : 팩토리얼 
    2. [**10870번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2581.java>) : 피보나치 수 5
-   3. [**2447번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1929.java>) : 별 찍기 - 10 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_2447%20%EC%84%A4%EB%AA%85.jpg>) ★
-                                                                                                                   
+   3. [**2447번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1929.java>) : 별 찍기 - 10 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_2447%20%EC%84%A4%EB%AA%85.jpg>) ★                                                                                                                   
    4. [**11729번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4948.java>) : 하노이 탑 이동 순서 ★
 
+- #### 12단계 : 실습 2
+   - 아직 준비중
+  
+- #### 13단계 : 브루트 포스_ ~ ing
+   1. [**2798번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2798.java>) : 블랙잭
 ---------------------------------------------------------------------------------------------------------------------
 
 - #### Etc _ Finished
