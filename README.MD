@@ -85,7 +85,7 @@
    7. [**2775번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2775.java>) : 부녀회장이 될테야
    8. [**1011번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1011.java>) : Fly me to the Alpha Centauri
 
-- #### 10단계 : 수학 2 _ ~ing
+- #### 10단계 : 수학 2 _ Finished
    1. [**1978번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1978.java>) : 소수 찾기
    2. [**2581번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2581.java>) : 소수
    3. [**1929번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1929.java>) : 소수 구하기 (에라토스테네스의 체) ★★ 
@@ -100,7 +100,8 @@
 - #### 11단계 : 재귀 _ ~ing
    1. [**10872번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1978.java>) : 팩토리얼 
    2. [**10870번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2581.java>) : 피보나치 수 5
-   3. [**2447번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1929.java>) : 별 찍기 - 10 _ ~ing
+   3. [**2447번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1929.java>) : 별 찍기 - 10 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_2447%20%EC%84%A4%EB%AA%85.jpg>) ★
+                                                                                                                   
    4. [**11729번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4948.java>) : 하노이 탑 이동 순서 ★
 
 ---------------------------------------------------------------------------------------------------------------------
