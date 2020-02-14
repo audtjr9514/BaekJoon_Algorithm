@@ -98,10 +98,10 @@
    10. [**1002번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1002.java>) : 터렛 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1002%20%EC%84%A4%EB%AA%85.jpg>) ★
    
 - #### 11단계 : 재귀 _ Finished
-   1. [**10872번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1978.java>) : 팩토리얼 
-   2. [**10870번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2581.java>) : 피보나치 수 5
-   3. [**2447번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1929.java>) : 별 찍기 - 10 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_2447%20%EC%84%A4%EB%AA%85.jpg>) ★                                                                                                                   
-   4. [**11729번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4948.java>) : 하노이 탑 이동 순서 ★
+   1. [**10872번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10872.java>) : 팩토리얼 
+   2. [**10870번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10870.java>) : 피보나치 수 5
+   3. [**2447번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2447.java>) : 별 찍기 - 10 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_2447%20%EC%84%A4%EB%AA%85.jpg>) ★                                                                                                                   
+   4. [**11729번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11729.java>) : 하노이 탑 이동 순서 ★
 
 - #### 12단계 : 실습 2
    - 아직 준비중
