@@ -7,11 +7,11 @@ public class bj_11729 {
     public static void hanoi(int num, int from, int by, int to) {
         if (num == 1) {
             count++;
-            move.append(from + " " + to + "\n");
+            move.append("from : " + from + " -> " + "to :" + to + "\n");
         } else {
             count++;
             hanoi(num - 1, from, to, by);
-            move.append(from + " " + to + "\n");
+            move.append("from : " + from + " -> " + "to :" + to + "\n");
             hanoi(num - 1, by, from, to);
         }
     }
