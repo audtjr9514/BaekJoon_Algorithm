@@ -106,11 +106,15 @@
 - #### 12단계 : 실습 2
    - 아직 준비중
   
-- #### 13단계 : 브루트 포스_ ~ ing
+- #### 13단계 : 브루트 포스 _ Finished
    1. [**2798번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2798.java>) : 블랙잭
    2. [**2231번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2231.java>) : 분배합
    3. [**7568번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_7568.java>) : 덩치
-   4. [**1018번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1018.java>) : 체스판 다시 칠하기
+   4. [**1018번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1018.java>) : 체스판 다시 칠하기 ★
+   5. [**1436번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1436.java>) : 영화감독 숌
+   
+- #### 14단계 : 정렬 _ ~ ing
+   1. [**2750번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2750.java>) : 수 정렬하기
 ---------------------------------------------------------------------------------------------------------------------
 
 - #### Etc _ Finished
