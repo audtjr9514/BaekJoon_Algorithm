@@ -2,7 +2,10 @@
 
 ### 백준 알고리즘의 단계별 풀어보기
 - #### ID : [myoungs14](<https://www.acmicpc.net/user/myoungs14>)
+
 - #### Java로 풀이합니다.
+
+- #### [시간 복잡도 정리](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%A0%95%EB%A6%AC.jpg>)
 
 ### 단계별 풀이
 
