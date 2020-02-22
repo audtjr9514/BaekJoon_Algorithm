@@ -118,6 +118,10 @@
    
 - #### 14단계 : 정렬 _ ~ ing
    1. [**2750번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2750.java>) : 수 정렬하기
+   2. [**2751번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2751.java>) : 수 정렬하기 2 ★
+   3. [**10989번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10989.java>) : 수 정렬하기 3
+   4. [**2108번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2108.java>) : 통계학 ★   
+   5. [**1427**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1427.java>) : 소트인사이드
 ---------------------------------------------------------------------------------------------------------------------
 
 - #### Etc _ Finished
@@ -132,7 +136,4 @@
    - [**1924번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1924.java>) : 2007년
    - [**1475번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1475.java>) : 방번호  ★ 
    - [**6064번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_6064.java>) : 카잉달력 ★★ 
-   - [**2750**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2750.java>) : 수 정렬하기
-   - [**2108**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2108.java>) : 통계학 ~ing
-   - [**1427**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1427.java>) : 소트인사이드
    - [**1181**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1181.java>) : 단어 정렬 ★ 

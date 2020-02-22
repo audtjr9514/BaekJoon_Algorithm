@@ -8,11 +8,13 @@
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.ArrayList;
+import java.util.Collections;
+import java.lang.Math;
 
 public class bj_2108 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-        int total = scan.nextInt();
+        int total = scan.nextInt(); // 입력받는 수의 개수
 
         int[] numbers = new int[total];
         for (int i = 0; i < total; i++)
@@ -23,7 +25,7 @@ public class bj_2108 {
         int sum = 0;
         for (int num : numbers)
             sum += num;
-        System.out.println(sum / total);
+        System.out.println((Math.round((double) sum / total)));
 
 //      // 중앙값
         System.out.println(numbers[total / 2]);
@@ -33,13 +35,9 @@ public class bj_2108 {
         int[] num_chk = new int[8001];
         Arrays.fill(num_chk, 0);
         for (int i = 0; i < numbers.length; i++) {
-            if (numbers[i] < 0)
-                num_chk[Math.abs(numbers[i])]++;
-            else
-                num_chk[numbers[i]+4000]++;
+            num_chk[numbers[i] + 4000]++;
         }
         int count = 0;
-        int max = 0;
         ArrayList<Integer> many = new ArrayList<>();
         for (int i = 0; i < num_chk.length; i++) {
             if (count <= num_chk[i])
@@ -48,10 +46,16 @@ public class bj_2108 {
                     many.clear();
                     many.add(i);
                 } else {
-                    many.pop();
+                    many.add(i);
                 }
         }
-        System.out.println(max-4000);
+        Collections.sort(many);
+//        for (int n : many)
+//            System.out.print(n +" ");
+        if (many.size() == 1)
+            System.out.println(many.get(0) - 4000);
+        else
+            System.out.println(many.get(1) - 4000);
 
         // 범위
         System.out.println(numbers[numbers.length - 1] - numbers[0]);
