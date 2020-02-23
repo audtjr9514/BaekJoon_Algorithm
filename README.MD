@@ -122,6 +122,8 @@
    3. [**10989번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10989.java>) : 수 정렬하기 3
    4. [**2108번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2108.java>) : 통계학 ★   
    5. [**1427**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1427.java>) : 소트인사이드
+   6. [**11650**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11650.java>) : 좌표 정렬하기
+   7. [**11651**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11651.java>) : 좌표 정렬하기 2
 ---------------------------------------------------------------------------------------------------------------------
 
 - #### Etc _ Finished
