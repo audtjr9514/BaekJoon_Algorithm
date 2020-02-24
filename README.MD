@@ -7,6 +7,8 @@
 
 - #### [시간 복잡도 정리](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%A0%95%EB%A6%AC.jpg>)
 
+- #### [**입출력 정리**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/INPUTandOUPUT.MD>)
+
 ### 단계별 풀이
 
 - #### 1단계 : 입출력과 사칙연산 _  Finished
@@ -124,7 +126,7 @@
    5. [**1427**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1427.java>) : 소트인사이드
    6. [**11650**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11650.java>) : 좌표 정렬하기
    7. [**11651**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11651.java>) : 좌표 정렬하기 2
-   8  [**1181**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1181.java>) : 단어 정렬 ★ 
+   8. [**1181**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1181.java>) : 단어 정렬 ★ 
    9. [**10814**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10814.java>) : 나이순 정렬
    
 - #### 15단계 : 백트래킹 _ ~ing
