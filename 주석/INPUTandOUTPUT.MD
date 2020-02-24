@@ -114,9 +114,9 @@
   | void close()                                   | 스트림 닫음                                                  |
   | void write(int c)                              | int 형으로 문자 데이터를 출력문자스트림으로 출력             |
   | void write(String s, int offset, int length)   | 문자열 s를 offset 위치부터 length 길이만큼을 출력스트림으로 출력 |
-| void write(char[] buf, int offset, int length) | 문자배열 buf의 offset 위치부터 length 길이만큼을 출력스트림으로 출력 |
+  | void write(char[] buf, int offset, int length) | 문자배열 buf의 offset 위치부터 length 길이만큼을 출력스트림으로 출력 |
   | void newLine()                                 | 줄바꿈 문자열 출력                                           |
-| void flush()                                   | 남아있는 데이터를 모두 출력시킴.                             |
+  | void flush()                                   | 남아있는 데이터를 모두 출력시킴.                             |
   
   - **사용법** [소스 코드](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bufferstream_code.java)
   
