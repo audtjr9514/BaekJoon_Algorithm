@@ -116,7 +116,7 @@
    4. [**1018번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1018.java>) : 체스판 다시 칠하기 ★
    5. [**1436번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1436.java>) : 영화감독 숌
    
-- #### 14단계 : 정렬 _ ~ ing
+- #### 14단계 : 정렬 _ Finished
    1. [**2750번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2750.java>) : 수 정렬하기
    2. [**2751번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2751.java>) : 수 정렬하기 2 ★
    3. [**10989번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10989.java>) : 수 정렬하기 3
@@ -124,6 +124,12 @@
    5. [**1427**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1427.java>) : 소트인사이드
    6. [**11650**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11650.java>) : 좌표 정렬하기
    7. [**11651**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11651.java>) : 좌표 정렬하기 2
+   8  [**1181**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1181.java>) : 단어 정렬 ★ 
+   9. [**10814**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10814.java>) : 나이순 정렬
+   
+- #### 15단계 : 백트래킹 _ ~ing
+   1. [**15649번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15649.java>) : N과 M (1)
+         
 ---------------------------------------------------------------------------------------------------------------------
 
 - #### Etc _ Finished
@@ -138,4 +144,3 @@
    - [**1924번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1924.java>) : 2007년
    - [**1475번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1475.java>) : 방번호  ★ 
    - [**6064번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_6064.java>) : 카잉달력 ★★ 
-   - [**1181**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1181.java>) : 단어 정렬 ★ 
