@@ -7,7 +7,7 @@
 
 - #### [시간 복잡도 정리](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%A0%95%EB%A6%AC.jpg>)
 
-- #### [**입출력 정리**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/INPUTandOUPUT.MD>)
+- #### [**입출력 정리**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/INPUTandOUTPUT.MD>)
 
 ### 단계별 풀이
 

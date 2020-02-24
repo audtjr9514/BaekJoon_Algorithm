@@ -10,10 +10,10 @@
   - JDK 1.5부터 추가
   - 이전의 문자, 숫자 입력을 받는 명령들보다 예외처리나, 수행속도 면에서 편리해 많이 쓰임
   - `System.in` 은 *입력한 값을 Byte 단위로 받아온다.*
-  - **사용법  **[소스 코드](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/scanner_code.java>)
+  - **사용법** [소스 코드](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/scanner_code.java)
 
   ~~~java
-  import java.util.Scanner; 						// Scanner를 사용하기 위한 클래스 import
+  import java.util.Scanner; 			// Scanner를 사용하기 위한 클래스 import
   
   public class scanner_code {
       public static void main(String[] args) {
@@ -23,17 +23,17 @@
           int integer_number = scan.nextInt();	// int형을 입력받음
           float real_number1 = scan.nextFloat();	// float형을 입력받음
           double real_number2 = scan.nextDouble();// double형을 입력받음
-          String string1 = scan.next(); 			// 공백을 기준으로 입력을 받음
-          String string2 = scan.nextLine(); 		// 한 라인을 기준으로 입력을 받는다.
+          String string1 = scan.next(); 		// 공백을 기준으로 입력을 받음
+          String string2 = scan.nextLine(); 	// 한 라인을 기준으로 입력을 받는다.
   
-          System.out.println(character);			// character 출력
-          System.out.println(integer_number);		// int 출력
-          System.out.println(real_number1);		// float 출력
-          System.out.println(real_number2);		// double 출력
-          System.out.println(string1);			// next입력 string 출력
-          System.out.println(string2);			// nextLine string 출력
+          System.out.println(character);		// character 출력
+          System.out.println(integer_number);	// int 출력
+          System.out.println(real_number1);	// float 출력
+          System.out.println(real_number2);	// double 출력
+          System.out.println(string1);		// next입력 string 출력
+          System.out.println(string2);		// nextLine string 출력
   
-          scan.close(); 							// Scanner 종료
+          scan.close(); 				// Scanner 종료
       }
   }
   ~~~
@@ -68,58 +68,35 @@
 - **Stream**
 
   - `stream`이란 자료의 입/출력을 도와주는 중간 매개체이다.
-
   - `입력은 Reader / 출력은 Writer`가 뒤에 붙는다.
-
   - `stream`은 문자 단위 / 바이트 단위 차이의 두가지 종류가 있다.
-
     - 문자 단위 Class
-
       - **`Buffer`** ->`LineNumber`
       - `CharArray`
       - `InputStream` -> `File`
       - `Filter`
       - `Piped`
       - `String`
-
     - 바이트 단위 Class
-
       - `FileInput`
-
       - `PipedInput`
-
       - `FilterInput`
-
       - `ByteArrayInput`
-
       - `SequenceInput`
-
       - `StringBufferInput`
-
       - `ObjectInput`
-
         
 
 - **BufferedReader / BufferedWriter**
-
   - `BufferedReader / BufferedWriter`는 버퍼스트림의 문자 단위 Class이다.
-
   - `Buffered` 클래스는 보조입출력스트림이다.
-
-  - `Buffer`
-  
+  - `Buffer`  
   - 데이터를 한 곳에서 다른 한곳으로 전송하는 동안 
-      일시적으로 그 데이터를 보관하는 임시 메모리  영역
-  
-- *`Scanner`는 `space / Enter`를 모두 경계로 인식*
-    *`BufferedReader`는 Enter만을 경계로 인식하고, 받은 데이터를 String으로 고정시킨다.*
-
+    - 일시적으로 그 데이터를 보관하는 임시 메모리  영역
+  - *`Scanner`는 `space / Enter`를 모두 경계로 인식*
+      *`BufferedReader`는 Enter만을 경계로 인식하고, 받은 데이터를 String으로 고정시킨다.*
     > 위의 사항 때문에 데이터를 사용시 꼭 형변환을 해주어야 한다.
-  
-- *`Scanner`는 `space / Enter`를 모두 경계로 인식*
-    *`BufferedReader`는 Enter만을 경계로 인식하고, 받은 데이터를 String으로 고정시킨다.*
-  
-- 하지만 `Scanner`에 비해 *많은 양의 데이터를 입력받거나 속도를 빨리 할 때* 훨씬 효율적이다.
+  - 하지만 `Scanner`에 비해 *많은 양의 데이터를 입력받거나 속도를 빨리 할 때* 훨씬 효율적이다.
   
   - **주요 메소드**
   
@@ -141,7 +118,7 @@
   | void newLine()                                 | 줄바꿈 문자열 출력                                           |
 | void flush()                                   | 남아있는 데이터를 모두 출력시킴.                             |
   
-  - **사용법** [소스 코드](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bufferstream_code.java>)
+  - **사용법** [소스 코드](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bufferstream_code.java)
   
   ```java
   import java.io.BufferedReader;        // io패키지의 BufferedReader 클래스 import
@@ -210,17 +187,10 @@
   > > 123.12341234
   > > Hello World!
   > >  ```
-
-
-
-
-
 ------
 
 ### 3. StringTokenizer
-
 - **StringTokenizer**
-
   - `StringTokenizer` class : `String`을 구획문자 기준으로 `token` 단위로 끊어준다.
   - 디폴트 구획문자 : *`\t, \n, \r, \f`*
   - `BufferReader` 스트림을 이용할 시에 String으로 받아오기 때문에 구획문자를 기준으로 끊어서 
@@ -245,7 +215,7 @@
   | nextToken(String delim) | 획문자(delimiter)를 delim으로 바꾼 후 바뀐 다음 토큰을 리턴한다.<br /> 예를들어 this$1is$1string 이라고 하면 생성자에서 구획문자를$1로 <br />설정했다가 nextToken으로 this를 받고 2번째 nextToken은 delim을<br /> $로 받으면 (nextToken("$")) 1is를 리턴한다. |
   | hasMoreTokens()         | 리턴할 다음 토큰이 있으면 true를 다음 토큰이 없으면 false를 리턴한다. |
 
-  - **사용법** [소스 코드](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/stringtokenizer_code.java>)
+  - **사용법** [소스 코드](https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/stringtokenizer_code.java)
 
   ```java
   import java.io.BufferedReader;
