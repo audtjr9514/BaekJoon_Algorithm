@@ -13,24 +13,6 @@
   | [**Comparable와 Comparator의 차이점 및 사용**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/ComparableAndComparator.MD>) |
   | [**정렬 정리**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/Sort.MD>) |
 
-- #### Index
-
-  - **[1단계 : 입출력과 사칙연산 _  Finished](#1단계 : 입출력과 사칙연산 _  Finished)**
-  - **[2단계 : if문 _ Finished](#2단계 : if문  _ Finished)**
-  - **[3단계 : for문 _ Finished](#3단계 : for문 _ Finished)**
-  - **[4단계 : while문 _ Finished](#4단계 : while문 _ Finished)**
-  - **[5단계 : 실습 1](#5단계 : 실습 1)**
-  - **[6단계 : 1차원 배열 _ Finished](#6단계 : 1차원 배열 _ Finished)**
-  - **[7단계 : 함수 _ Finished](#7단계 : 함수 _ Finished)**
-  - **[8단계 : 문자열 _ Finished](#8단계 : 문자열 _ Finished)**
-  - **[9단계 : 수학 1 _ Finished](#9단계 : 수학 1 _ Finished)**
-  - **[10단계 : 수학 2 _ Finished](#10단계 : 수학 2 _ Finished)**
-  - **[11단계 : 재귀 _ Finished](#11단계 : 재귀 _ Finished)**
-  - **[12단계 : 실습 2](#12단계 : 실습 2)**
-  - **[13단계 : 브루트 포스 _ Finished](#13단계 : 브루트 포스 _ Finished)**
-  - **[14단계 : 정렬 _ Finished](#14단계 : 정렬 _ Finished)**
-  - **[15단계 : 백트래킹 _ ~ing](#15단계 : 백트래킹 _ ~ing)**
-  - **[Etc _ Finished](#Etc _ Finished)**
 
 ------
 
