@@ -11,6 +11,8 @@
 
 - #### [**Comparable와 Comparator의 차이점 및 사용**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/ComparableAndComparator.MD>)
 
+- #### [**정렬 정리**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/Sort.MD>)
+
 ------
 
 ### 단계별 풀이
@@ -136,7 +138,7 @@
   
 - #### 12단계 : 실습 2
    - 아직 준비중
-    
+   
   ---------
   
 - #### 13단계 : 브루트 포스 _ Finished
