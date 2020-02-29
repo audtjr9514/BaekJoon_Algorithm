@@ -183,8 +183,10 @@
   ---------
   
 - #### 15단계 : 백트래킹 _ ~ing
-   1. 15649 [**swap 풀이 ★**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15649_1.java>) / [**DFS풀이 ★★**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15649_2.java>): N과 M (1)
-   2.
+   1. [**15649 swap 풀이 ★**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15649_1.java>) / [**DFS풀이 ★★**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15649_2.java>): N과 M (1) _ 순열
+   2. [**15650**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15650.java>): N과 M (2) _ 조합
+   3. [**15651**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15651.java>): N과 M (3) _ 자기 중복 포함 순열
+   4. [**15652**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15652.java>): N과 M (4) _ 자기 중복 포함 조합
    
       
 

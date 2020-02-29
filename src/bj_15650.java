@@ -26,7 +26,7 @@ public class bj_15650 {
     }
 
     static void combination(int depth, int n, int r) throws IOException {
-        if (r == 0 ) {
+        if (r == 0) {
             for (int i = 0; i < standard; i++)
                 bw.write(output[i] + " ");
             bw.newLine();
@@ -34,10 +34,10 @@ public class bj_15650 {
         }
 
         for (int i = depth; i < n; i++) {
-            if (visited[i]== false) {
+            if (visited[i] == false) {
                 visited[i] = true;
-                output[standard-r] = arr[i];
-                combination(i + 1, n, r-1);
+                output[standard - r] = arr[i];
+                combination(i + 1, n, r - 1);
                 visited[i] = false;
             }
         }
