@@ -32,7 +32,7 @@
   - **[15단계 : 백트래킹 _ ~ing](#15단계--백트래킹-_-ing)**
   - **[Etc _ Finished](#etc-_-finished)**
 
-------
+----------------------------
 
 ### 단계별 풀이
 
@@ -182,13 +182,15 @@
   
   ---------
   
-- #### 15단계 : 백트래킹 _ ~ing
+- #### 15단계 : 백트래킹 _ ~ing ★★★(난이도 극악)
    1. [**15649 swap 풀이 ★**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15649_1.java>) / [**DFS풀이 ★★**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15649_2.java>): N과 M (1) _ 순열 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_15649%20%EC%84%A4%EB%AA%85.jpg>)
-   2. [**15650**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15650.java>): N과 M (2) _ 조합 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_15650%20%EC%84%A4%EB%AA%85.jpg>)
+   2. [**15650**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15650.java>): N과 M (2) _ 조합 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_15650%20%EC%84%A4%EB%AA%85.jpg>) ★
    3. [**15651**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15651.java>): N과 M (3) _ 자기 중복 포함 순열
-   4. [**15652**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15652.java>): N과 M (4) _ 자기 중복 포함 조합
-   5. [**9663**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9663.java>): N-Queen _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_9663%20%EC%84%A4%EB%AA%85.jpg>)
-      
+   4. [**15652**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15652.java>): N과 M (4) _ 자기 중복 포함 조합 ★
+   5. [**9663**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9663.java>): N-Queen _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_9663%20%EC%84%A4%EB%AA%85.jpg>) ★★
+   6. [**2580**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2580.java>): 스도쿠 ★★
+   7. [**14888**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_14888.java>): 연산자 끼워넣기
+   8. [**14889**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_14889.java>): 스타트와 링크
 
 ---------------------------------------------------------------------------------------------------------------------
 
