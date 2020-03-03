@@ -54,7 +54,7 @@ public class bj_2580 {
                 if (sdoku[i][j] != 0) {
                     rows[i][sdoku[i][j]] = true; // 해당 행의 숫자를 체크
                     cols[j][sdoku[i][j]] = true; // 해당 열의 숫자를 체크
-                    smalls[(i / 3) * 3 + j / 3][sdoku[i][j]] = true; // 해당하는 작은 사각형의 숫자를 체크;
+                    smalls[(i / 3) * 3 + j / 3][sdoku[i][j]] = true; // 해당하는 작은 사각형의 숫자를 체크
                 }
             }
         }

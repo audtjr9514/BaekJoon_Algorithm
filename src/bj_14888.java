@@ -16,36 +16,37 @@ public class bj_14888 {
         if (level == numbers.length - 1) {
             end_result.add(result);
             return;
-        }
-        for (int i = 0; i < 4; i++) {
-            if (operation[i] > 0) {
-                operation[i]--;
-                result = check(i,result);
-                oper(level + 1, result);
+        } else {
+            for (int i = 0; i < 4; i++) {
+                if (operation[i] > 0) {
+                    operation[i]--;
+                    result = check(i, level);
+                    oper(level + 1, result);
+                    operation[i]++;
+                }
             }
         }
 
     }
 
-    static int check(int i, int result) {
+    static int check(int i, int level) {
         switch (i) {
             case 0:
-                return numbers[i] + numbers[i + 1];
+                return numbers[level] + numbers[level + 1];
             case 1:
-                return numbers[i] - numbers[i + 1];
+                return numbers[level] - numbers[level + 1];
             case 2:
-                return numbers[i] * numbers[i + 1];
+                return numbers[level] * numbers[level + 1];
             case 3:
-                return numbers[i] / numbers[i + 1];
+                return numbers[level] / numbers[level + 1];
         }
         return 0;
-
     }
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        int number = br.read();
+        int number = Integer.parseInt(br.readLine());
         numbers = new int[number]; // 숫자 수열
 
         // 수열 입력
@@ -60,7 +61,12 @@ public class bj_14888 {
         int result = 0;
         oper(0, result);
         Collections.sort(end_result);
-        bw.write(end_result.get(0) + '\n' + end_result.get(number - 1));
+
+        for (int x : end_result)
+            bw.write(String.valueOf(x) + ' ');
+
+        bw.newLine();
+        bw.write(String.valueOf(end_result.get(end_result.size() - 1)) + '\n' + String.valueOf(end_result.get(0)));
 
         br.close();
         bw.close();
