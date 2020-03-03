@@ -10,9 +10,35 @@ import java.util.Collections;
 public class bj_14888 {
     static int[] numbers;
     static int[] operation = new int[4]; // 사칙 연산
-    static ArrayList<Integer> result = new ArrayList<Integer>();
+    static ArrayList<Integer> end_result = new ArrayList<Integer>();
 
-    static void oper(int start){
+    static void oper(int level, int result) {
+        if (level == numbers.length - 1) {
+            end_result.add(result);
+            return;
+        }
+        for (int i = 0; i < 4; i++) {
+            if (operation[i] > 0) {
+                operation[i]--;
+                result = check(i,result);
+                oper(level + 1, result);
+            }
+        }
+
+    }
+
+    static int check(int i, int result) {
+        switch (i) {
+            case 0:
+                return numbers[i] + numbers[i + 1];
+            case 1:
+                return numbers[i] - numbers[i + 1];
+            case 2:
+                return numbers[i] * numbers[i + 1];
+            case 3:
+                return numbers[i] / numbers[i + 1];
+        }
+        return 0;
 
     }
 
@@ -30,8 +56,11 @@ public class bj_14888 {
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < operation.length; i++)
             operation[i] = Integer.parseInt(st.nextToken());
-        oper(0);
-        Collections.sort(result);
+
+        int result = 0;
+        oper(0, result);
+        Collections.sort(end_result);
+        bw.write(end_result.get(0) + '\n' + end_result.get(number - 1));
 
         br.close();
         bw.close();
