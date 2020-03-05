@@ -26,6 +26,7 @@ public class bj_3009 {
             numbers[3][1] = numbers[2][1];
 
         System.out.println(numbers[3][0] + " " + numbers[3][1]);
+        ]
 
         scan.close();
 
