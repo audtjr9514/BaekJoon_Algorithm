@@ -22,16 +22,16 @@ public class bj_1003 {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         int testcase = Integer.parseInt(br.readLine());
         int N;
-        cnt_0 = new int[40];
+        cnt_0 = new int[41];
         cnt_0[0] = 1;
         cnt_0[1] = 0;
-        cnt_1 = new int[40];
+        cnt_1 = new int[41];
         cnt_1[0] = 0;
         cnt_1[1] = 1;
         for (int i = 0; i < testcase; i++) {
             N = Integer.parseInt(br.readLine());
             fibonacci(N);
-            bw.write(String.valueOf(cnt_0[N]) + " " + cnt_1[N]);
+            bw.write(String.valueOf(cnt_0[N]) + ' '+ cnt_1[N]);
             bw.newLine();
         }
 
