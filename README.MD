@@ -201,7 +201,7 @@
    3. [**1904**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1904.java>): 01타일
    4. [**9461**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9461.java>): 파도반 수열
    5. [**1149**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1149.java>): RGB 거리
-
+   5. [**1932**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1932.java>): 정수 삼각형
 
 ---------------------------------------------------------------------------------------------------------------------
 
