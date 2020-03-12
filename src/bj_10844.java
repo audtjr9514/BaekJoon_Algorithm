@@ -9,30 +9,28 @@ public class bj_10844 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         int N = Integer.parseInt(br.readLine());
-        int[] chk = new int[9];
-        int[] result = new int[9];
-        int sum = 0;
-        int temp = 1;
+        long[] chk = new long[9];
+        long[] result = new long[9];
+        long sum = 0;
         for (int i = 0; i < 9; i++) {
             chk[i] = 1;
-            result[i] = 1;
+            if (i == 8)
+                result[i] = 1;
+            else
+                result[i] = 2;
         }
 
-        if (N > 1) {
-            for (int i = 1; i < N; i++) {
-                for (int j = 1; j < 10; j++) {
-                    if (j == 1) {
-                        result[j - 1] = (chk[j] + temp) % 1000000000;
-                    } else if (j == 9) {
-                        result[j - 1] = chk[j - 2] % 1000000000;
+        if (N > 2) {
+            for (int i = 2; i <= N; i++) {
+                for (int j = 0; j < 9; j++) {
+                    if (j == 0) {
+                        result[j] = (chk[j] + chk[j + 1]) % 1000000000; // 앞자리 1의 경우, 2번째 전의 행 앞자리 1값 + 1개 행 전의 앞자리 2의 값
+                    } else if (j == 8) {
+                        result[j] = (chk[j - 1]) % 1000000000; // 앞자리가 9의 경우, 1행 전의 앞자리가 8인 계단수들이다
                     } else {
-                        result[j - 1] = (chk[j - 2] + chk[j]) % 1000000000;
+                        result[j] = (chk[j - 1] + chk[j + 1]) % 1000000000;
                     }
                 }
-                temp = chk[0];
-
-                for (int j = 0; j < 9; j++)
-                    chk[j] = result[j];
             }
             for (int i = 0; i < 9; i++)
                 sum += result[i];
@@ -45,6 +43,5 @@ public class bj_10844 {
         bw.write(String.valueOf(sum % 1000000000));
         br.close();
         bw.close();
-
     }
 }
