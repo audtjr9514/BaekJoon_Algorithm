@@ -22,11 +22,11 @@ public class bj_10844 {
             for (int i = 1; i < N; i++) {
                 for (int j = 1; j < 10; j++) {
                     if (j == 1) {
-                        result[j - 1] = chk[j - 1] + temp;
+                        result[j - 1] = (chk[j] + temp) % 1000000000;
                     } else if (j == 9) {
-                        result[j - 1] = chk[j - 2];
+                        result[j - 1] = chk[j - 2] % 1000000000;
                     } else {
-                        result[j - 1] = chk[j - 2] + chk[j];
+                        result[j - 1] = (chk[j - 2] + chk[j]) % 1000000000;
                     }
                 }
                 temp = chk[0];
@@ -34,16 +34,15 @@ public class bj_10844 {
                 for (int j = 0; j < 9; j++)
                     chk[j] = result[j];
             }
-
             for (int i = 0; i < 9; i++)
                 sum += result[i];
-            for (int re : result)
-                bw.write(String.valueOf(re) + " ");
+//            for (int re : result)
+//                bw.write(String.valueOf(re) + " ");
 //            bw.newLine();
         } else
             for (int i = 0; i < 9; i++)
                 sum += result[i];
-        bw.write(String.valueOf(sum));
+        bw.write(String.valueOf(sum % 1000000000));
         br.close();
         bw.close();
 
