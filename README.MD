@@ -201,8 +201,10 @@
    3. [**1904**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1904.java>): 01타일
    4. [**9461**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9461.java>): 파도반 수열
    5. [**1149**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1149.java>): RGB 거리
-   5. [**1932**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1932.java>): 정수 삼각형
-
+   6. [**1932**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1932.java>): 정수 삼각형
+   7. [**2579**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2579.java>): 계단 오르기
+   8. [**1463**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1463.java>): 1로 만들기
+   9. [**10844**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10844.java>): 쉬운 계단수
 ---------------------------------------------------------------------------------------------------------------------
 
 - #### Etc _ Finished
