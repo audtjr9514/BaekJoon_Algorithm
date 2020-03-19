@@ -31,7 +31,7 @@
   - **[14단계 : 정렬](#14단계--정렬-_-finished)**
   - **[15단계 : 백트래킹](#15단계--백트래킹-_-finished)**
   - **[16단계 : 동적 계획법 1](#16단계--동적-계획법-_-ing)**
-  - **[Etc _ Finished](#etc-_-finished)**
+  - **[Etc](#etc-_-finished)**
 
 ----------------------------
 
@@ -57,8 +57,8 @@
   1. [**1330번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1330.java>) : 두 수 비교하기
   2. [**9498번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9498.java>) : 시험 성적
   3. [**2753번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2753.java>) : 윤년
-  4. [**5543번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_5543.java>) : 상근날드
-  5. [**10817번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10817.java>) : 세 수 
+  4. [**14681번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_14681.java>) : 사분면 고르기
+  5. [**2884번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2884.java>) : 알람 시계
   
   ---------
   
@@ -86,7 +86,12 @@
   ---------
   
 - #### 5단계 : 실습 1
-  - 아직 준비중
+  1. [**10039번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10039.java>) : 평균 점수
+  2. [**5543번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_5543.java>) : 상근날드
+  3. [**10817번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10817.java>) : 세 수 
+  4. [**2523번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2523.java>) : 별 찍기 - 13
+  5. [**2446번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2446.java>) : 별 찍기 - 9
+  6. [**10996번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10996.java>) : 별찍기 - 21
   
   ---------
   
@@ -189,7 +194,7 @@
    3. [**15651**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15651.java>): N과 M (3) _ 자기 중복 포함 순열
    4. [**15652**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15652.java>): N과 M (4) _ 자기 중복 포함 조합 ★
    5. [**9663**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9663.java>): N-Queen _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_9663%20%EC%84%A4%EB%AA%85.jpg>) ★★
-   6. [**2580**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2580.java>): 스도쿠 ★★
+   6. [**2580**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2580.java>): 스도쿠 ★
    7. [**14888**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_14888.java>): 연산자 끼워넣기
    8. [**14889**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_14889.java>): 스타트와 링크
 
@@ -200,11 +205,11 @@
    2. [**1003**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1003.java>): 피보나치 함수
    3. [**1904**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1904.java>): 01타일
    4. [**9461**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9461.java>): 파도반 수열
-   5. [**1149**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1149.java>): RGB 거리
-   6. [**1932**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1932.java>): 정수 삼각형
-   7. [**2579**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2579.java>): 계단 오르기
-   8. [**1463**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1463.java>): 1로 만들기
-   9. [**10844**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10844.java>): 쉬운 계단수
+   5. [**1149**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1149.java>): RGB 거리 ★
+   6. [**1932**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1932.java>): 정수 삼각형 
+   7. [**2579**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2579.java>): 계단 오르기 ★
+   8. [**1463**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1463.java>): 1로 만들기 ★
+   9. [**10844**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10844.java>): 쉬운 계단수 ★
 ---------------------------------------------------------------------------------------------------------------------
 
 - #### Etc _ Finished
@@ -212,7 +217,6 @@
    - [**8958번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_8958.java>) : OX퀴즈
    - [**2920번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2920.java>) : 음계
    - [**2920번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2920.java>) : 음계
-   - [**10039번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10039.java>) : 평균 점수
    - [**1152번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1152.java>) : 단어의 개수
    - [**2438번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2438.java>) : 별찍기 - 1 
    - [**1193번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1193.java>) : 분수찾기 ★
