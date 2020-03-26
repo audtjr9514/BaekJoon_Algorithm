@@ -216,7 +216,6 @@
    - [**2577번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2577.java>) : 숫자의 개수
    - [**8958번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_8958.java>) : OX퀴즈
    - [**2920번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2920.java>) : 음계
-   - [**2920번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2920.java>) : 음계
    - [**1152번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1152.java>) : 단어의 개수
    - [**2438번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2438.java>) : 별찍기 - 1 
    - [**1193번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1193.java>) : 분수찾기 ★
