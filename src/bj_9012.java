@@ -5,6 +5,7 @@ import java.io.OutputStreamWriter;
 import java.io.IOException;
 
 public class bj_9012 {
+
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -14,11 +15,16 @@ public class bj_9012 {
             String str = br.readLine();
             int count = 0;
             int n = 0;
-            while (n <(str.length() )) {
+            while (n < str.length()) {
                 if (str.charAt(n) == '(')
                     count++;
-                else
+                else {
+                    if (count == 0) {
+                        count = -1;
+                        break;
+                    }
                     count--;
+                }
                 n++;
             }
             if (count == 0) {

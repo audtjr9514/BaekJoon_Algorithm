@@ -210,6 +210,7 @@
    7. [**2579**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2579.java>): 계단 오르기 ★
    8. [**1463**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1463.java>): 1로 만들기 ★
    9. [**10844**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10844.java>): 쉬운 계단수 ★
+   10. [**2156**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2156.java>): 포도주 시식
 ---------------------------------------------------------------------------------------------------------------------
 
 - #### Etc _ Finished
