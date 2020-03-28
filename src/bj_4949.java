@@ -8,47 +8,44 @@ public class bj_4949 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        int big = 0;
-        int small = 0;
+        char[] stack = new char[100];
+        int top = -1;
         while (true) {
             String str = br.readLine();
             if (str.equals("."))
                 break;
-
-            char tmp = ' ';
-
+            loop:
             for (int i = 0; i < str.length(); i++) {
                 switch (str.charAt(i)) {
                     case '[':
-                        tmp = str.charAt(i);
-                        big++;
-                        bw.write("big : " + big + " / ");
+                        top++;
+                        stack[top] = '[';
                         break;
                     case ']':
-                        if (big == 0 || tmp == '(')
-                            big = -100;
-                        big--;
-                        bw.write("big : " + big + " / ");
+                        if (top == -1 || stack[top] == '(') {
+                            top++;
+                            break loop;
+                        } else
+                            top--;
                         break;
                     case '(':
-                        tmp = str.charAt(i);
-                        small++;
-                        bw.write("small : " + small + " / ");
+                        top++;
+                        stack[top] = '(';
                         break;
                     case ')':
-                        if (small == 0 || tmp == '[')
-                            small = -100;
-                        small--;
-                        bw.write("small : " + small + " / ");
+                        if (top == -1 || stack[top] == '[') {
+                            top++;
+                            break loop;
+                        } else
+                            top--;
                         break;
                 }
             }
-            if (small == 0 && big == 0)
+            if (top == -1)
                 bw.write("yes\n");
             else
                 bw.write("no\n");
-            small = 0;
-            big = 0;
+            top = -1;
         }
         br.close();
         bw.close();
