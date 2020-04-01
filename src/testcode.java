@@ -1,36 +1,22 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class testcode {
     public static void main(String[] args) {
-        final int mod = 1000000000;
-        Scanner scan = new Scanner(System.in);
-        int n = scan.nextInt();
-        long[][] dp = new long[n + 1][10];
+        Scanner sc = new Scanner(System.in);
+        int Array1[] = new int[100];
 
-        for (int i = 1; i < 10; i++)
-            dp[1][i] = 1;
+        System.out.println("첫번째 집합을 입력하세요. 입력을 마쳤으면 양이 아닌 정수를 입력하세요 :");
 
-        for (int i = 2; i <= n; i++) {
-            for (int j = 0; j < 10; j++) {
-                if (j == 0)
-                    dp[i][j] = dp[i - 1][j + 1];
-                else if (j == 9)
-                    dp[i][j] = dp[i - 1][j - 1];
-                else
-                    dp[i][j] = dp[i - 1][j - 1] + dp[i - 1][j + 1];
-                dp[i][j] %= mod;
+        for (int i = 0; i < Array1.length; i++) {
+            Array1[i] = sc.nextInt();
+            if (Array1[i] < 0) {
+                System.out.println("종료");
+                i--;
+                break;
             }
+            System.out.println(Array1[i]);
         }
-        long answer = 0;
-        for (int i = 1; i < n+1; i++) {
-            System.out.print(i + " : ");
-            for (int j = 0; j < 10; j++)
-                System.out.print(dp[i][j] + " ");
-            System.out.println();
-        }
-        for (int i = 0; i < 10; i++)
-            answer += dp[n][i];
-
-        System.out.println(answer % mod);
+        sc.close();
     }
 }
