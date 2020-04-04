@@ -10,6 +10,14 @@ public class bj_9251 {
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         char[] str1 = br.readLine().toCharArray();
         char[] str2 = br.readLine().toCharArray();
+        int[][] dp = new int[str1.length][str2.length];
+
+        for (int i = 0; i < str1.length; i++) {
+
+        }
+
+        bw.write(dp[str1.length - 1][str2.length - 1]);
+
 
         br.close();
         bw.close();
