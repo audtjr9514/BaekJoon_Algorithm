@@ -149,21 +149,21 @@
    7. [**3009번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_3009.java>) : 네 번째 점
    8. [**4153번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4153.java>) : 직각삼각형
    9. [**3053번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_3053.java>) : 택시 기하학
-   10. [**1002번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1002.java>) : 터렛 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1002%20%EC%84%A4%EB%AA%85.jpg>) ★
+   10. [**1002번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1002.java>) : 터렛 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1002.jpg>) ★
   
   ---------
   
 - #### 11단계 : 재귀 _ Finished
    1. [**10872번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10872.java>) : 팩토리얼 
    2. [**10870번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10870.java>) : 피보나치 수 5
-   3. [**2447번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2447.java>) : 별 찍기 - 10 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_2447%20%EC%84%A4%EB%AA%85.jpg>) ★                                                                                                                   
+   3. [**2447번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2447.java>) : 별 찍기 - 10 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_2447.jpg>) ★                                                                                                                   
    4. [**11729번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11729.java>) : 하노이 탑 이동 순서 ★
   
   ---------
   
 - #### 12단계 : 실습 2
    - 아직 준비중
-   g
+   
   ---------
   
 - #### 13단계 : 브루트 포스 _ Finished
@@ -189,11 +189,11 @@
   ---------
   
 - #### 15단계 : 백트래킹 _ Finished ★★★(난이도 극악)
-   1. [**15649 swap 풀이 ★**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15649_1.java>) / [**DFS풀이 ★★**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15649_2.java>): N과 M (1) _ 순열 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_15649%20%EC%84%A4%EB%AA%85.jpg>)
-   2. [**15650**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15650.java>): N과 M (2) _ 조합 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_15650%20%EC%84%A4%EB%AA%85.jpg>) ★
+   1. [**15649 swap 풀이 ★**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15649_1.java>) / [**DFS풀이 ★★**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15649_2.java>): N과 M (1) _ 순열 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_15649.jpg>)
+   2. [**15650**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15650.java>): N과 M (2) _ 조합 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_15650.jpg>) ★
    3. [**15651**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15651.java>): N과 M (3) _ 자기 중복 포함 순열
    4. [**15652**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15652.java>): N과 M (4) _ 자기 중복 포함 조합 ★
-   5. [**9663**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9663.java>): N-Queen _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_9663%20%EC%84%A4%EB%AA%85.jpg>) ★★
+   5. [**9663**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9663.java>): N-Queen _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_9663.jpg>) ★★
    6. [**2580**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2580.java>): 스도쿠 ★
    7. [**14888**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_14888.java>): 연산자 끼워넣기
    8. [**14889**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_14889.java>): 스타트와 링크
@@ -203,15 +203,17 @@
 - #### 16단계 : 동적 계획법 _ ~ing
    1. [**2748**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2748.java>): 피보나치 수 2
    2. [**1003**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1003.java>): 피보나치 함수
-   3. [**1904**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1904.java>): 01타일
-   4. [**9461**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9461.java>): 파도반 수열
-   5. [**1149**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1149.java>): RGB 거리 ★
-   6. [**1932**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1932.java>): 정수 삼각형 
-   7. [**2579**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2579.java>): 계단 오르기 ★
+   3. [**1904**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1904.java>): 01타일 [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1904.jpg>)
+   4. [**9461**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9461.java>): 파도반 수열 [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_9461.jpg>) ★ 
+   5. [**1149**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1149.java>): RGB 거리 [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1149.jpg>) ★ 
+   6. [**1932**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1932.java>): 정수 삼각형 [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1932.jpg>)
+   7. [**2579**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2579.java>): 계단 오르기 [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_2579.jpg>) ★ 
    8. [**1463**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1463.java>): 1로 만들기 ★
    9. [**10844**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10844.java>): 쉬운 계단수 ★
    10. [**2156**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2156.java>): 포도주 시식
-   11. [**11053**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11053.java>): 가장 긴 증가하는 부분 수열
+   11. [**11053**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11053.java>): 가장 긴 증가하는 부분 수열 ★
+   12. [**2565**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2565.java>): 전깃줄
+   13. [**9251**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9251.java>): LCS (Longest Common Sequence) [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_9251.jpg>) ★ 
    
 ---------------------------------------------------------------------------------------------------------------------
 
