@@ -217,6 +217,7 @@
    14. [**1912**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1912.java>): 연속합 [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1912.jpg>)
    
 ---------------------------------------------------------------------------------------------------------------------
+
 - #### Etc _ Finished
    - [**2577번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2577.java>) : 숫자의 개수
    - [**8958번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_8958.java>) : OX퀴즈
