@@ -214,10 +214,9 @@
    11. [**11053**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11053.java>): 가장 긴 증가하는 부분 수열 ★
    12. [**2565**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2565.java>): 전깃줄
    13. [**9251**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9251.java>): LCS (Longest Common Sequence) [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_9251.jpg>) ★ 
-   14. [**1912**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1912.java>): 연속합
+   14. [**1912**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1912.java>): 연속합 [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1912.jpg>)
    
 ---------------------------------------------------------------------------------------------------------------------
-
 - #### Etc _ Finished
    - [**2577번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2577.java>) : 숫자의 개수
    - [**8958번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_8958.java>) : OX퀴즈
