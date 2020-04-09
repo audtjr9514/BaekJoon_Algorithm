@@ -3,7 +3,6 @@ import java.io.BufferedWriter;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.IOException;
-import java.util.Comparator;
 import java.util.StringTokenizer;
 import java.util.Arrays;
 
@@ -24,14 +23,16 @@ public class bj_1931 {
                     if (x1[1] > x2[1])
                         return 1;
                     else if (x1[1] == x2[1])
-                        if (x1[0] < x2[0])
+                        if (x1[0] > x2[0])
                             return 1;
-
                     return -1;
                 }
         );
-
-        int start = 0;
+//        for (int c[] : conf) {
+//            bw.write(c[0] + " " + c[1]);
+//            bw.newLine();
+//        }
+        int start = -1;
         int count = 0;
         for (int i = 0; i < N; i++) {
             if (conf[i][0] >= start) {
