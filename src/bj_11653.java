@@ -3,22 +3,28 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.util.Arrays;
-import java.util.StringTokenizer;
 
-public class bj_1037 {
+public class bj_11653 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        int count = Integer.parseInt(br.readLine());
-        int[] numbers = new int[count];
-        StringTokenizer st = new StringTokenizer(br.readLine());
-        for (int i = 0; i < count; i++)
-            numbers[i] = Integer.parseInt(st.nextToken());
-        Arrays.sort(numbers);
-        bw.write(String.valueOf(numbers[0] * numbers[count - 1]));
+        int N = Integer.parseInt(br.readLine());
+        int i = 2;
+        while (true) {
+            if (N == 1)
+                break;
+            else {
+                if (N % i == 0) {
+                    N /= i;
+                    bw.write(String.valueOf(i));
+                    bw.newLine();
+                    i = 2;
+                } else
+                    i++;
+
+            }
+        }
         br.close();
         bw.close();
-
     }
 }
