@@ -14,14 +14,15 @@ public class bj_2981 {
             nums[i] = Integer.parseInt(br.readLine());
         int[] chk = new int[N];
         int i = 2;
-        while (i < nums[0]) {
-            for (int j = 0; j < N; j++)
+        while (i < nums[N - 1]) {
+            for (int j = 0; j < N; j++) {
                 chk[j] = nums[j] % i;
-            int j;
-            for (j = 1; j < N; j++)
-                if (chk[j - 1] != chk[j])
+            }
+            int k;
+            for (k = 1; k < N; k++)
+                if (chk[k - 1] != chk[k])
                     break;
-            if (j == N - 1)
+            if (k == N)
                 bw.write(i + " ");
             i++;
         }
