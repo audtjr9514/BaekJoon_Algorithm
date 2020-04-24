@@ -24,14 +24,34 @@ public class bj_18258 {
                     queue[++rear] = num;
                     break;
                 case "pop":
+                    if (rear == front - 1)
+                        bw.write(String.valueOf(-1) + '\n');
+                    else
+                        bw.write(String.valueOf(queue[front++]) + '\n');
                     break;
                 case "size":
+                    if (rear - front >= 0)
+                        bw.write(String.valueOf(rear - front + 1) + '\n');
+                    else
+                        bw.write(String.valueOf(0) + '\n');
                     break;
                 case "empty":
+                    if (rear == front - 1)
+                        bw.write(String.valueOf(1) + '\n');
+                    else
+                        bw.write(String.valueOf(0) + '\n');
                     break;
                 case "front":
+                    if (rear == front - 1)
+                        bw.write(String.valueOf(-1) + '\n');
+                    else
+                        bw.write(String.valueOf(queue[front]) + '\n');
                     break;
                 case "back":
+                    if (rear == front - 1)
+                        bw.write(String.valueOf(-1) + '\n');
+                    else
+                        bw.write(String.valueOf(queue[rear]) + '\n');
                     break;
             }
         }
