@@ -45,8 +45,8 @@ class numsortService {
             swap(nums, i, max);
             heapify(nums, max, size);
         }
-        for(int n : nums)
-            System.out.print(n +" ");
+        for (int n : nums)
+            System.out.print(n + " ");
         System.out.println();
 
     }
@@ -63,17 +63,12 @@ public class testcode {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        int[] nums = new int[9];
-        StringTokenizer st = new StringTokenizer(br.readLine());
-        for (int i = 0; i < 9; i++)
-            nums[i] = Integer.parseInt(st.nextToken());
-        numsortService.buildHeap(nums);
-
-        // 각 클래스에 오버라이딩되어있는 toString을 사용하여 배열 내에 있는 각 도형의 정보와 면적을 출력
-        bw.newLine();
-        bw.write("힙 정렬 결과 " + nums.length + "개의 도형 정보와 면적 = \n");
-        for (int n : nums)
-            bw.write(n + "\n");
+        String id = br.readLine();
+        String Id = br.readLine();
+        if (id.compareTo(Id) < 0)
+            bw.write("입력한 값 : " + Id +" 이 " + id + "보다 뒤에 있는 알파벡입니다.");
+        else
+            bw.write("입력한 값 : " + Id +" 이 " + id + "보다 앞에 있는 알파벡입니다.");
         br.close();
         bw.close();
     }
