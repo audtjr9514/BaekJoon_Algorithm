@@ -14,12 +14,13 @@ public class bj_5430 {
         for (int i = 0; i < n; i++) {
             Deque<Integer> deque = new ArrayDeque<>();
             String op = br.readLine();
-            int length = Integer.parseInt(br.readLine());
+            int count = Integer.parseInt(br.readLine());
             String[] arr = br.readLine().replace("[", "").replace("]", "").split(",");
+
             boolean chk = true;
             boolean isEmpty = false;
-            for (int j = 0; j < length; j++)
-                deque.addLast(Integer.parseInt(arr[i]));
+            for (int j = 0; j < count; j++)
+                deque.addLast(Integer.parseInt(arr[j]));
             loop:
             for (int j = 0; j < op.length(); j++) {
                 switch (op.charAt(j)) {
@@ -28,7 +29,7 @@ public class bj_5430 {
                         else chk = true;
                         break;
                     case 'D':
-                        if (!deque.isEmpty()) {
+                        if (deque.isEmpty() == false) {
                             if (chk)
                                 deque.pollFirst();
                             else
@@ -37,24 +38,34 @@ public class bj_5430 {
                             isEmpty = true;
                             break loop;
                         }
+                        count--;
+                        break;
                 }
             }
             if (isEmpty) {
-                bw.write("ERROR");
+                bw.write("error");
                 bw.newLine();
             } else {
-                String str = "[";
-                if (chk == true) {
-                    for (int k = 0; k < deque.size() - 1; k++) {
-                        str.concat(deque.pollFirst() + ",");
+                StringBuilder str = new StringBuilder();
+                if (count == 0)
+                    str.append("[]");
+                else {
+                    str.append("[");
+                    if (chk == true) {
+                        for (int k = 0; k < count - 1; k++) {
+                            str.append(deque.pollFirst() + ",");
+
+                        }
+                        str.append(deque.pollFirst());
+                    } else {
+                        for (int k = 0; k < count - 1; k++) {
+                            str.append(deque.pollLast() + ",");
+                        }
+                        str.append(deque.pollLast());
                     }
-                } else {
-                    for (int k = 0; k < deque.size() - 1; k++) {
-                        str.concat(deque.pollLast() + ",");
-                    }
+                    str.append("]");
                 }
-                str.concat("]");
-                bw.write(str);
+                bw.write(String.valueOf(str));
                 bw.newLine();
             }
         }

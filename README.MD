@@ -35,6 +35,7 @@
   - **[18단계 : 그리디 알고리즘](#18단계--그리디-알고리즘-_-finished)**
   - **[19단계 : 수학 3](#19단계--수학-3-_-ing)**
   - **[20단계 : 스택](#20단계--동적-계획법-_-finished)**
+  - **[21단계 : 큐, 덱](#21단계--큐,-덱)**
   - **[Etc](#etc-_-finished)**
 
 ----------------------------
@@ -235,13 +236,18 @@
 
   ---------
   
-- #### 19단계 : 수학3 _ ~ing
+- #### 19단계 : 수학3 _ Finished
    1. [**5086**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_5086.java>): 배수와 약수
    2. [**1037**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1037.java>): 약수
    3. [**11653**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11653.java>): 소인수분해
    4. [**2609**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2609.java>): 최대공약수와 최소공배수
-   5. [**2981**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2981.java>): 검문 ★
+   5. [**2981**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2981.java>): 검문 ★★
    6. [**3036**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_3036.java>): 링
+   7. [**11050**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11050.java>): 이항 계수 1
+   8. [**11051**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11051.java>): 이항 계수 2
+   9. [**9375**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9375.java>): 패션왕 신해빈
+   10. [**1676**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1676.java>): 팩토리얼 0의 개수
+   11. [**2004**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2004.java>): 조합 0의 개수
    
   ---------
   
@@ -251,6 +257,18 @@
    3. [**9012**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9012.java>): 괄호
    4. [**4949**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4949.java>): 균형잡힌 세상
    5. [**1874**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1874.java>): 스택 수열 ★
+   
+  ---------
+  
+- #### 21단계 : 큐, 덱 ~ing
+   1. [**18258**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_18258.java>): 큐 2
+   2. [**2164**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2164.java>): 카드2
+   3. [**11866**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11866.java>): 요세푸스 문제 0
+   4. [**1966**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1966.java>): 프린터 큐
+   5. [**10866**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10866.java>): 덱
+   6. [**1021**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1021.java>): 회전하는 큐
+   7. [**5430**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_5430.java>): AC
+   
  
 ---------------------------------------------------------------------------------------------------------------------
 
