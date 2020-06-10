@@ -33,9 +33,10 @@
   - **[16단계 : 동적 계획법 1](#16단계--동적-계획법-_-finished)**
   - **[17단계 : 실습 3](#17단계--실습-3)**
   - **[18단계 : 그리디 알고리즘](#18단계--그리디-알고리즘-_-finished)**
-  - **[19단계 : 수학 3](#19단계--수학-3-_-ing)**
+  - **[19단계 : 수학 3](#19단계--수학-3-_-finished)**
   - **[20단계 : 스택](#20단계--동적-계획법-_-finished)**
-  - **[21단계 : 큐, 덱](#21단계--큐,-덱)**
+  - **[21단계 : 큐, 덱](#21단계--큐,-덱-_-finished)**
+  - **[22단계 : 분할 정복](#22단계--분할-정복-_-ing)**
   - **[Etc](#etc-_-finished)**
 
 ----------------------------
@@ -260,14 +261,20 @@
    
   ---------
   
-- #### 21단계 : 큐, 덱 ~ing
+- #### 21단계 : 큐, 덱 _ Finished
    1. [**18258**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_18258.java>): 큐 2
    2. [**2164**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2164.java>): 카드2
    3. [**11866**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11866.java>): 요세푸스 문제 0
-   4. [**1966**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1966.java>): 프린터 큐
+   4. [**1966**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1966.java>): 프린터 큐 ★
    5. [**10866**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10866.java>): 덱
-   6. [**1021**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1021.java>): 회전하는 큐
-   7. [**5430**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_5430.java>): AC
+   6. [**1021**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1021.java>): 회전하는 큐 ★
+   7. [**5430**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_5430.java>): AC ★
+   
+  ---------
+   
+- #### 22단계 : 분할 정복 ~ ing
+   1. [**2630**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2630.java>): 색종이 만들기
+   2. [**1992**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1992.java>): 쿼드 트리
    
  
 ---------------------------------------------------------------------------------------------------------------------
