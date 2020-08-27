@@ -277,23 +277,26 @@
    2. [**1992**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1992.java>): 쿼드 트리
    3. [**1780**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1780.java>): 종이의 개수
    4. [**1629**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1629.java>): 곱셈
-   5. [**11401**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11401.java>): 이항 계수 3
-   6. [**2740**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2740.java>): 행렬 곱셈
-   7. [**10830**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10830.java>): 행렬제곱
+   5. [**11401**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11401.java>): 이항 계수 3★
+   6. [**2740**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2740.java>): 행렬 곱셈 ★
+   7. [**10830**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10830.java>): 행렬제곱 
    8. [**2749**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2749.java>): 피보나치 수 3
-   9. [**6549**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_6549.java>): 히스토그램에서 가장 큰 직사각형
-   10. [**2261**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2261.java>): 가장 가까운 두 점  
+   9. [**6549**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_6549.java>): 히스토그램에서 가장 큰 직사각형 ★★★
+   10. [**2261**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2261.java>): 가장 가까운 두 점 ★★★
 
   ---------
    
-- #### 24단계 : 이분 탐색 ~ ing
+- #### 24단계 : 이분 탐색 _ Finished
    1. [**1920**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1920.java>): 수 찾기
    2. [**10816**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10816.java>): 숫자 카드 2
    3. [**1654**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1654.java>): 랜선 자르기
    4. [**2805**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2805.java>): 나무 자르기
-   5. [**2110**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2110.java>): 공유기 설치
-   6. [**1300**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1300.java>): K번째 수
-   7. [**12015**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_12015.java>): 가장 긴 증가하는 부분 수열 2
+   5. [**2110**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2110.java>): 공유기 설치 ★
+   6. [**1300**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1300.java>): K번째 수 ★
+   7. [**12015**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_12015.java>): 가장 긴 증가하는 부분 수열 2 ★
+   
+- #### 24단계 : 이분 탐색 _ Finished
+   1. [**1920**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1920.java>): 수 찾기
 
 ---------------------------------------------------------------------------------------------------------------------
 
