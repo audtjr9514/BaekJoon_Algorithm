@@ -329,14 +329,17 @@
 
   ---------
   
-- #### 28단계 : DFS와 BFS ~ ing
+- #### 28단계 : DFS와 BFS ~ ing _ 비교적 DFS가 쉽게 느껴짐
    1. [**1260**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1260.java>): DFS와 BFS
    2. [**2606**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2606.java>): 바이러스
    3. [**2667**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2667.java>): 단지번호붙이기
    4. [**1012**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1012.java>): 유기농 배추
-   5. [**2178**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2178.java>): 미로탐색
+   5. [**2178**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2178.java>): 미로탐색 ★
    6. [**7576**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_7576.java>): 토마토
-
+   7. [**7569**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_7569.java>): 토마토 ★
+   8. [**1697**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1697.java>): 숨바꼭질
+   9. [**2206**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2206.java>): 벽 부수고 이동하기 ★★
+   
 ---------------------------------------------------------------------------------------------------------------------
 
 - #### Etc _ Finished
