@@ -47,9 +47,9 @@ public class bj_2206 {
                 visited[i][j] = Integer.MAX_VALUE;
             }
         }
+        total = Integer.MAX_VALUE;
         path = new LinkedList<>();
         BFS();
-
         if (total == Integer.MAX_VALUE)
             bw.write(String.valueOf(-1));
         else
@@ -65,7 +65,7 @@ public class bj_2206 {
         while (!path.isEmpty()) {
             walls wall = path.poll();
 
-            if (wall.x == height - 1 && wall.y == -1) {
+            if (wall.x == height - 1 && wall.y == width-1) {
                 total = wall.move;
                 break;
             }
