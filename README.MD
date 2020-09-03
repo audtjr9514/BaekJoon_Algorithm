@@ -329,7 +329,7 @@
 
   ---------
   
-- #### 28단계 : DFS와 BFS ~ ing _ 비교적 DFS가 쉽게 느껴짐
+- #### 28단계 : DFS와 BFS _ Finished
    1. [**1260**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1260.java>): DFS와 BFS
    2. [**2606**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2606.java>): 바이러스
    3. [**2667**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2667.java>): 단지번호붙이기
@@ -340,6 +340,11 @@
    8. [**1697**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1697.java>): 숨바꼭질
    9. [**2206**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2206.java>): 벽 부수고 이동하기 ★★
    
+  ---------
+     
+   - #### 28단계 : DFS와 BFS ~ ing _ 비교적 DFS가 쉽게 느껴짐
+      1. [**1753**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1753.java>): 최단경로 ★
+      
 ---------------------------------------------------------------------------------------------------------------------
 
 - #### Etc _ Finished
