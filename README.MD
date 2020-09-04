@@ -341,10 +341,11 @@
    9. [**2206**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2206.java>): 벽 부수고 이동하기 ★★
    
   ---------
-     
-   - #### 28단계 : DFS와 BFS ~ ing _ 비교적 DFS가 쉽게 느껴짐
-      1. [**1753**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1753.java>): 최단경로 ★
-      
+  
+- #### 28단계 : DFS와 BFS ~ ing _ 비교적 DFS가 쉽게 느껴짐
+   1. [**1753**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1753.java>): 최단경로 ★
+   2. [**2504**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1504.java>): 특정한 최단 경로
+       
 ---------------------------------------------------------------------------------------------------------------------
 
 - #### Etc _ Finished
