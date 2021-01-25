@@ -4,27 +4,31 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.IOException;
 import java.util.StringTokenizer;
+import java.util.List;
+import java.util.ArrayList;
 
 public class bj_9370 {
     static class Node implements Comparable<Node> {
-        int Edge, distance;
+        int end, weight;
 
-        public Node(int Edge, int distance) {
-            this.Edge = Edge;
-            this.distance = distance;
+        public Node(int end, int weight) {
+            this.end = end;
+            this.weight = weight;
         }
 
         @Override
         public int compareTo(Node o) {
-            return distance - o.distance;
+            return weight - o.weight;
         }
     }
 
-    static int n;
-    static int m;
-    static int t;
-    static int start;
-    static int g, h;
+    static int n; // 교차로 갯수 = 정점의 수
+    static int m; // 도로의 갯수 = 간선의 수
+    static int t; // 목적지 후보의 개수
+    static int start; // 시작점
+    static int g, h; // 무조건 포함해야할 정점
+    static final int INF = Integer.MAX_VALUE;
+    static List<Node>[] vertexList;
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -39,6 +43,12 @@ public class bj_9370 {
             start = Integer.parseInt(st.nextToken());
             g = Integer.parseInt(st.nextToken());
             h = Integer.parseInt(st.nextToken());
+
+            vertexList = new ArrayList[n + 1];
+            for (int j = 1; j < n + 1; j++)
+                vertexList[i] = new ArrayList<>();
+            
+
         }
 
         br.close();
