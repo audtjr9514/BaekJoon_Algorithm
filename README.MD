@@ -1,6 +1,7 @@
 # 백준 알고리즘 문제 풀이
 
 ### 백준 알고리즘의 단계별 풀어보기
+
 - #### ID : [myoungs14](<https://www.acmicpc.net/user/myoungs14>)
 
 - #### Java로 풀이합니다.
@@ -8,11 +9,12 @@
 - #### 알고리즘 관련 지식
 
   | [시간 복잡도 정리](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%A0%95%EB%A6%AC.jpg>) |
-  | ------------------------------------------------------------ |
+      | ------------------------------------------------------------ |
   | [**입출력 정리**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/INPUTandOUTPUT.MD>) |
-  | [**Comparable와 Comparator의 차이점 및 사용**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/ComparableAndComparator.MD>) |
+  | [**Comparable와 Comparator의 차이점 및
+  사용**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/ComparableAndComparator.MD>) |
   | [**정렬 정리**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/Sort.MD>) |
-  
+
 - #### INDEX
 
   - **[1단계 : 입출력과 사칙연산](#1단계--입출력과-사칙연산-_-finished)**
@@ -57,9 +59,9 @@
   9. [**10869번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10869.java>) : 사칙연산
   10. [**10430번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10430.java>) : 나머지
   11. [**2588번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2588.java>) : 곱셈
-  
+
   ---------
-  
+
 - #### 2단계 : if문 _ Finished
 
   1. [**1330번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1330.java>) : 두 수 비교하기
@@ -67,9 +69,9 @@
   3. [**2753번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2753.java>) : 윤년
   4. [**14681번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_14681.java>) : 사분면 고르기
   5. [**2884번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2884.java>) : 알람 시계
-  
+
   ---------
-  
+
 - #### 3단계 : for문 _ Finished
 
   1. [**2739번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2739.java>) : 구구단
@@ -184,6 +186,7 @@
   7. [**11651**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11651.java>) : 좌표 정렬하기 2
   8. [**1181**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1181.java>) : 단어 정렬 ★
   9. [**10814**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10814.java>) : 나이순 정렬
+  10. [**18870**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10870.java>) : 좌표 압축
 
   ---------
 
@@ -225,7 +228,8 @@
   12. [**11054**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11054.java>) : 가장 긴 바이토닉 부분 수열 ★
   13. [**2565**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2565.java>) : 전깃줄
   14. [**9251**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9251.java>) : LCS (Longest Common
-      Sequence) [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_9251.jpg>)
+      Sequence) [**
+      주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_9251.jpg>)
       ★
   15. [**1912**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1912.java>) : 연속합 [**
       주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1912.jpg>)
