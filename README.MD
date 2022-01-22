@@ -6,48 +6,21 @@
 
 - #### Java로 풀이합니다.
 
+---------------------------
+
 - #### 알고리즘 관련 지식
 
   | [시간 복잡도 정리](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%A0%95%EB%A6%AC.jpg>) |
-      | ------------------------------------------------------------ |
+        | ------------------------------------------------------------ |
   | [**입출력 정리**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/INPUTandOUTPUT.MD>) |
-  | [**Comparable와 Comparator의 차이점 및
-  사용**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/ComparableAndComparator.MD>) |
+  | [**Comparable와 Comparator의 차이점 및 사용**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/ComparableAndComparator.MD>) |
   | [**정렬 정리**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/Sort.MD>) |
-
-- #### INDEX
-
-  - **[1단계 : 입출력과 사칙연산](#1단계--입출력과-사칙연산-_-finished)**
-  - **[2단계 : if문](#2단계--if문-_-finished)**
-  - **[3단계 : for문](#3단계--for문-_-finished)**
-  - **[4단계 : while문](#4단계--while문-_-finished)**
-  - **[5단계 : 1차원 배열](#5단계--1차원-배열-_-finished)**
-  - **[6단계 : 함수](#6단계--함수-_-finished)**
-  - **[7단계 : 문자열](#7단계--문자열-_-finished)**
-  - **[8단계 : 기본 수학 1](#8단계--기본-수학-1-_-finished)**
-  - **[9단계 : 기본 수학 2](#9단계--기본-수학-2-_-finished)**
-  - **[10단계 : 재귀](#10단계--재귀-_-finished)**
-  - **[11단계 : 브루트 포스](#11단계--브루트-포스-_-finished)**
-  - **[12단계 : 정렬](#12단계--정렬-_-finished)**
-  - **[13단계 : 백트래킹](#13단계--백트래킹-_-finished)**
-  - **[14단계 : 동적 계획법 1](#14단계--동적-계획법-_-finished)**
-  - **[15단계 : 그리디 알고리즘](#15단계--그리디-알고리즘-_-finished)**
-  - **[16단계 : 정수론 및 조합론](#16단계--정수론-및-조합론-_-finished)**
-  - **[17단계 : 스택](#17단계--스택-_-finished)**
-  - **[18단계 : 큐, 덱](#18단계--큐,-덱-_-ㄹinished)**
-  - **[19단계 : 분할 정복](#19단계--분할-정복-~-ing-★★)**
-  - **[20단계 : 이분 탐색](#20단계--이분-탐색-_-finished)**
-  - **[21단계 : 우선순위 큐](#21단계--우선순위-큐-_-finished)**
-  - **[22단계 : 동적 계획법 2](#22단계--동적-계획법-2-_-finished-★★)**
-  - **[23단계 : DFS와 BFS](#23단계--DFS와-BFS-_-finished)**
-  - **[24단계 : 최단 경로](#24단계--최단-경로-_-~_ing)**
-  - **[Etc](#etc-_-finished)**
 
 ----------------------------
 
 ### 단계별 풀이
 
-- #### 1단계 : 입출력과 사칙연산 _ Finished
+- #### 1단계 : 입출력과 사칙연산
   1. [**2557번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2557.java>) : Hello World
   2. [**10718번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10718.java>) : we love kriii
   3. [**10171번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10171.java>) : 고양이
@@ -62,7 +35,7 @@
 
   ---------
 
-- #### 2단계 : if문 _ Finished
+- #### 2단계 : if문
 
   1. [**1330번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1330.java>) : 두 수 비교하기
   2. [**9498번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9498.java>) : 시험 성적
@@ -72,7 +45,7 @@
 
   ---------
 
-- #### 3단계 : for문 _ Finished
+- #### 3단계 : for문
 
   1. [**2739번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2739.java>) : 구구단
   2. [**10950번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10950.java>) : A+B - 3
@@ -88,14 +61,14 @@
 
   ---------
 
-- #### 4단계 : while문 _ Finished
+- #### 4단계 : while문
   1. [**10952번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10952.java>) : A+B - 5
   2. [**10951번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10951.java>) : A+B - 4
   3. [**1110번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1110.java>) : 더하기 사이클
 
   ---------
 
-- #### 5단계 : 1차원 배열 _ Finished
+- #### 5단계 : 1차원 배열
   1. [**10818번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10818.java>) : 최소, 최대
   2. [**2562번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2562.java>) : 최댓값
   3. [**2577번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2577.java>) : 숫자의 개수
@@ -106,14 +79,14 @@
 
   ---------
 
-- #### 6단계 : 함수 _ Finished
+- #### 6단계 : 함수
   1. [**15596번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15596.java>) : 정수 N개의 합
   2. [**4673번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4673.java>) : 셀프 넘버 ★★
   3. [**1065번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1065.java>) : 한수 ★★★
 
   ---------
 
-- #### 7단계 : 문자열 _ Finished
+- #### 7단계 : 문자열
   1. [**11654번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11654.java>) : 아스키 코드
   2. [**11720번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11720.java>) : 숫자의 합
   3. [**10809번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10809.java>) : 알파벳 찾기
@@ -127,7 +100,7 @@
 
   ---------
 
-- #### 8단계 : 기본 수학 1 _ Finished
+- #### 8단계 : 기본 수학 1
   1. [**1712번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1712.java>) : 손익분기점
   2. [**2292번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2292.java>) : 벌집
   3. [**1193번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1193.java>) : 분수찾기 ★
@@ -136,17 +109,15 @@
   6. [**2775번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2775.java>) : 부녀회장이 될테야
   7. [**2839번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2839.java>) : 설탕배달
   8. [**2839번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2839.java>) : 큰 수 A + B
-  9. [**1011번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1011.java>) : Fly me to the Alpha
-     Centauri
+  9. [**1011번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1011.java>) : Fly me to the Alpha Centauri
 
   ---------
 
-- #### 9단계 : 기본 수학 2 _ Finished
+- #### 9단계 : 기본 수학 2
   1. [**1978번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1978.java>) : 소수 찾기
   2. [**2581번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2581.java>) : 소수
   3. [**11653**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11653.java>) : 소인수분해
-  4. [**1929번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1929.java>) : 소수 구하기 (에라토스테네스의 체)
-     ★★
+  4. [**1929번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1929.java>) : 소수 구하기 (에라토스테네스의 체)★★
   5. [**4948번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_4948.java>) : 베르트랑 공존
   6. [**9020번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9020.java>) : 골드바흐의 추측
   7. [**1085번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1085.java>) : 직사각형에서 탈출
@@ -158,7 +129,7 @@
 
   ---------
 
-- #### 10단계 : 재귀 _ Finished
+- #### 10단계 : 재귀
   1. [**10872번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10872.java>) : 팩토리얼
   2. [**10870번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10870.java>) : 피보나치 수 5
   3. [**2447번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2447.java>) : 별 찍기 - 10 _ [**
@@ -167,7 +138,7 @@
 
   ---------
 
-- #### 11단계 : 브루트 포스 _ Finished
+- #### 11단계 : 브루트 포스
   1. [**2798번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2798.java>) : 블랙잭
   2. [**2231번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2231.java>) : 분배합
   3. [**7568번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_7568.java>) : 덩치
@@ -176,7 +147,7 @@
 
   ---------
 
-- #### 12단계 : 정렬 _ Finished
+- #### 12단계 : 정렬
   1. [**2750번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2750.java>) : 수 정렬하기
   2. [**2751번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2751.java>) : 수 정렬하기 2 ★
   3. [**10989번**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10989.java>) : 수 정렬하기 3
@@ -190,16 +161,12 @@
 
   ---------
 
-- #### 13단계 : 백트래킹 _ Finished ★★★(난이도 극악)
+- #### 13단계 : 백트래킹 ★★★(난이도 극악)
   1. [**15649 swap 풀이 ★**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15649_1.java>) / [**
-     DFS풀이 ★★**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15649_2.java>) : N과 M (1) _ 순열
-     _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_15649.jpg>)
-  2. [**15650**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15650.java>) : N과 M (2) _ 조합 _ [**
-     주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_15650.jpg>) ★
-  3. [**15651**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15651.java>) : N과 M (3) _ 자기 중복 포함
-     순열
-  4. [**15652**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15652.java>) : N과 M (4) _ 자기 중복 포함
-     조합 ★
+     DFS풀이 ★★**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15649_2.java>) : N과 M (1) _ 순열 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_15649.jpg>)
+  2. [**15650**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15650.java>) : N과 M (2) _ 조합 _ [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_15650.jpg>) ★
+  3. [**15651**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15651.java>) : N과 M (3) _ 자기 중복 포함 순열
+  4. [**15652**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_15652.java>) : N과 M (4) _ 자기 중복 포함 조합 ★
   5. [**9663**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9663.java>) : N-Queen _ [**
      주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_9663.jpg>) ★★
   6. [**2580**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2580.java>) : 스도쿠 ★
@@ -208,36 +175,27 @@
 
   ---------
 
-- #### 14단계 : 동적 계획법 1 _ Finished
+- #### 14단계 : 동적 계획법 1
   1. [**1003**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1003.java>) : 피보나치 함수
   2. [**9184**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9184.java>) : 신나는 함수 실행
-  3. [**1904**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1904.java>) : 01타일 [**
-     주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1904.jpg>)
-  4. [**9461**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9461.java>) : 파도반 수열 [**
-     주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_9461.jpg>) ★
-  5. [**1149**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1149.java>) : RGB 거리 [**
-     주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1149.jpg>) ★
-  6. [**1932**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1932.java>) : 정수 삼각형 [**
-     주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1932.jpg>)
-  7. [**2579**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2579.java>) : 계단 오르기 [**
-     주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_2579.jpg>) ★
+  3. [**1904**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1904.java>) : 01타일 [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1904.jpg>)
+  4. [**9461**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9461.java>) : 파도반 수열 [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_9461.jpg>) ★
+  5. [**1149**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1149.java>) : RGB 거리 [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1149.jpg>) ★
+  6. [**1932**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1932.java>) : 정수 삼각형 [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1932.jpg>)
+  7. [**2579**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2579.java>) : 계단 오르기 [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_2579.jpg>) ★
   8. [**1463**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1463.java>) : 1로 만들기 ★
   9. [**10844**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10844.java>) : 쉬운 계단수 ★
   10. [**2156**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2156.java>) : 포도주 시식
   11. [**11053**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11053.java>) : 가장 긴 증가하는 부분 수열 ★
   12. [**11054**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11054.java>) : 가장 긴 바이토닉 부분 수열 ★
   13. [**2565**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2565.java>) : 전깃줄
-  14. [**9251**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9251.java>) : LCS (Longest Common
-      Sequence) [**
-      주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_9251.jpg>)
-      ★
-  15. [**1912**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1912.java>) : 연속합 [**
-      주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1912.jpg>)
+  14. [**9251**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9251.java>) : LCS (Longest Common Sequence) [주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_9251.jpg>) ★
+  15. [**1912**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1912.java>) : 연속합 [**주석**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/%EC%A3%BC%EC%84%9D/bj_1912.jpg>)
   16. [**12865**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_12865.java>) : 평범한 배낭 ★
 
   ---------
 
-- #### 15단계 : 그리디 알고리즘 _ Finished
+- #### 15단계 : 그리디 알고리즘
   1. [**11047**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11047.java>) : 동전 0
   2. [**1931**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1931.java>) : 회의실 배정
   3. [**11399**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11399.java>) : ATM
@@ -246,7 +204,7 @@
 
   ---------
 
-- #### 16단계 : 정수론 및 조합론 _ Finished
+- #### 16단계 : 정수론 및 조합론
   1. [**5086**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_5086.java>) : 배수와 약수
   2. [**1037**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1037.java>) : 약수
   3. [**2609**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2609.java>) : 최대공약수와 최소공배수
@@ -262,7 +220,7 @@
 
   ---------
 
-- #### 17단계 : 스택 _ Finished
+- #### 17단계 : 스택
   1. [**10828**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10828.java>) : 스택
   2. [**10773**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10773.java>) : 제로
   3. [**9012**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9012.java>) : 괄호
@@ -272,7 +230,7 @@
 
   ---------
 
-- #### 18단계 : 큐, 덱 _ Finished
+- #### 18단계 : 큐, 덱
   1. [**18258**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_18258.java>) : 큐 2
   2. [**2164**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2164.java>) : 카드2
   3. [**11866**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11866.java>) : 요세푸스 문제 0
@@ -283,7 +241,7 @@
 
   ---------
 
-- #### 19단계 : 분할 정복 ~ ing ★★
+- #### 19단계 : 분할 정복 ★★
   1. [**2630**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2630.java>) : 색종이 만들기
   2. [**1992**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1992.java>) : 쿼드 트리
   3. [**1780**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1780.java>) : 종이의 개수
@@ -297,7 +255,7 @@
 
   ---------
 
-- #### 20단계 : 이분 탐색 _ Finished
+- #### 20단계 : 이분 탐색
   1. [**1920**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1920.java>) : 수 찾기
   2. [**10816**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_10816.java>) : 숫자 카드 2
   3. [**1654**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1654.java>) : 랜선 자르기
@@ -308,7 +266,7 @@
 
   ---------
 
-- #### 21단계 : 우선순위 큐 _ Finished
+- #### 21단계 : 우선순위 큐
   1. [**11279**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11279.java>) : 최대 힙
   2. [**1927**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1927.java>) : 최소 힙
   3. [**11286**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11286.java>) : 절댓값 힙
@@ -316,7 +274,7 @@
 
   ---------
 
-- #### 22단계 : 동적 계획법 2 _ Finished ★★
+- #### 22단계 : 동적 계획법 2 ★★
   1. [**11066**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11066.java>) : 파일 합치기
   2. [**11049**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_11049.java>) : 행렬 곱셈 순서
   3. [**1520**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1520.java>) : 내리막 길
@@ -327,7 +285,7 @@
 
   ---------
 
-- #### 23단계 : DFS와 BFS _ Finished
+- #### 23단계 : DFS와 BFS
   1. [**1260**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1260.java>) : DFS와 BFS
   2. [**2606**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2606.java>) : 바이러스
   3. [**2667**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2667.java>) : 단지번호붙이기
@@ -342,14 +300,14 @@
 
   ---------
 
-- #### 24단계 : 최단 경로 _ ~ ing
+- #### 24단계 : 최단 경로
   1. [**1753**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1753.java>) : 최단경로 ★
   2. [**2504**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_1504.java>) : 특정한 최단 경로
   3. [**9370**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_9370.java>) : 미확인 도착지
 
 ---------------------------------------------------------------------------------------------------------------------
 
-- #### Etc _ Finished
+- #### Etc
   - [**2577**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2577.java>) : 숫자의 개수
   - [**8958**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_8958.java>) : OX퀴즈
   - [**2920**](<https://github.com/audtjr9514/BaekJoon_Algorithm/blob/master/src/bj_2920.java>) : 음계
